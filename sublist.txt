@@ -1,63 +1,7133 @@
-propose
-present
-MAP3
-academic
-adjustment
-alter
-amendment
-aware
-capacity
-challenge
-clause
-compounds
-conflict
-consultation
-contact
-decline
-discretion
-draft
-enable
-energy
-enforcement
-entities
-equivalent
-evolution
-expansion
-exposure
-external
-facilitate
-fundamental
-generated
-generation
+is
+organic
+light
+shows
+emitting
+display
+are
+has
+device
+drawing
+included
+includes
+method
+view
+substrate
+be
+second
+diode
+which
+one
+OLED
+having
+from
+comprises
+formed
+electrode
+can
+including
+provided
+used
+material
+pixel
+comprising
+film
+light-emitting
+LED
+claimed
+figure
+emission
+transistor
+voltage
+improved
+manufacturing
+connected
+thin
+driving
+preferred
+cross-sectional
+layers
+using
+efficiency
+source
+high
+devices
+disposed
+circuit
+power
+panel
+structure
+schematic
+diagram
+electrodes
+surface
+unit
+invention
+current
+cross-sectional view
+metal
+plurality
+forming
+data
+region
+process
 image
-liberal
-licence
-logic
-marginal
-medical
-mental
-modified
-monitoring
-network
-notion
-objective
-orientation
-perspective
-precise
-prime
-psychology
-pursue
+reduced
+arranged
+provides
+pixels
+may
+oxide
+active
+portion
+gate
+anode
+cathode
+area
+signal
+color
+further
+form
+disclosed
+transparent
+line
+use
+control
+first electrode
+corresponding
+second electrode
+another
+matrix
+present
+being
+Components
+low
+hole
+group
+different
+apparatus
+element
+have
+made
+selected
+compound
+providing
+aluminum
+insulating
+it
+electroluminescent
+electronic
+transistors
+materials
+formula
+lower
+conductive
+organic light emitting diode
+following
+sectional
+least one
+displays
+electron
+time
+include
+reducing
+coupled
+thickness
+contact
+luminance
+drain
+side
+lines
+present invention
+silicon
+while
+containing
+flat
+according
+brightness
+third
+transport
+useful
+applied
+quality
+computer
+block
+capacitor
+digital
+type
+involves
+organic light emitting display device
+driver
+top
+fabricating
+scan
+diodes
+set
+glass
+drive
+preferred Components
+increased
+provide
+capable
+tin
+prevented
+blue
+semiconductor
+supply
+Component
+display device
+injection
+cost
+substituted
+output
+gate electrode
+organic light emitting display
+OLED display
+emissive
+alkyl
+consumption
+external
+improving
+characteristics
+located
+indium
+schematic view
+polymer
+reduces
+aryl
+OLED device
+compounds
+elements
+preventing
+upper
 ratio
-rejected
-revenue
+optical
+adjacent
+configured
+zinc
+regions
+signals
+lifetime
+improves
+organic light emitting device
+green
+level
+greater
+displaying
+array
+electrical
+silver
+increasing
+number
+laser
+screen
+controlling
+generated
+host
+emitted
+portable
+mobile
+organic LED
 stability
-styles
-substitution
-sustainable
-symbolic
-target
+supplied
+charge
+prevents
+comprise
+concerne
+des
+moisture
+temperature
+electroluminescence
+prevent
+contains
+response
+inorganic
+consisting
+oxygen
+resistance
+cover
+ring
+flexible
+deposited
+fabrication
+several
+amount
+pattern
+opposite
+emit
+thin film transistor
+deposition
+dopant
+lighting
+groups
+multiple
+phone
+embodiment
+terminal
+covering
+sectional view
+threshold
+block diagram
+preparation
+properties
+direction
+relates
+pixel electrode
+sealing
+enables
+improve
+positioned
+reduce
+thermal
+white
+excellent
+making
+defining
+higher
+input
+titanium
+dans
+circuit diagram
+energy
+magnesium
+substrates
+organic light emitting diode OLED
+single
+illumination
+liquid
+blocking
+predetermined
+bottom
+facing
+phosphorescent
+value
+cell
+controlled
+Copper
+life
+switching
+transporting
+complex
+damage
+performance
+placed
+common
+operation
+portions
+aromatic
+units
+emits
+desired
+nitride
+simple
+angle
+data line
+organique
+supplying
+opening
+period
+depositing
+respective
+uniform
+manufacture
+mask
+increase
+size
+allows
+controller
+organic light emitting diode OLED display
+Lithium
+state
+contrast
+data lines
+field
+Composition
+encapsulation
+organic light emitting diode display
+range
+alkoxy
+member
+first substrate
+voltages
+applying
+edge
+illustrating
+under
+function
+manner
+reliability
+storage
+caused
+electric
+par
+uses
+anda
+buffer
+crystal
+manufactured
+obtained
+interposed
+stacked
+effect
+organic light-emitting display device
+controls
+doped
+manufacturing method
+power consumption
+aperture
+driving transistor
+supplies
+defined
+applications
+Calcium
+transfer
+wavelength
+displayed
+exposed
+heteroaryl
+information
+organic light emitting devices
+patterned
+pour
+covers
+given
+organic layer
+colors
+frame
+second substrate
+additional
+deterioration
+heat
+increases
+methods
+passive
+entire
+intermediate
+ligand
+luminous
+reflective
+drain electrode
+enhanced
+video
+preferred Component
+exposing
+generating
+formation
+molybdenum
+patterning
+former
+organiques
+weight
+couche
+space
+areas
+images
+carbon
+display panel
+hole transport
+performed
+viewing
+integrated
+outside
+reference
+gold
+production
+wall
+camera
+operating
+producing
+source electrode
+sur
+change
+need
+produce
+OLED display device
+television
+threshold voltage
+exhibits
+organic material
+step
+base
+circuits
+coating
+dispositif
+films
+order
+receiving
+alloy
+organic light-emitting diode
+plasma
+separated
+cells
+drain electrodes
+luminescent
+spaced
+one embodiment
 transition
-trend
-version
-welfare
-whereas
+fourth
+iridium
+pixel circuit
+tungsten
+generate
+separate
+width
+data signal
+platinum
+yield
+molecular
+property
+hole injection
+connection
+driven
+organic LED OLED
+data driver
+drop
+contacting
+indium tin oxide
+organic emission
+resin
+solar
+difference
+phenyl
+switch
+barrier
+nickel
+uniformity
+moins
+shape
+small
+fabricated
+first transistor
+reflection
+efficient
+wide
+adhesive
+generates
+hydrogen
+assistant
+attached
+speed
+transmission
+connecting
+forms
+holes
+nitrogen
+parallel
+perspective
+product
+relative
+resolution
+chromium
+comprenant
+protective
+rate
+plastic
+achieved
+channel
+compensation
+light emitting
+plate
+preparing
+que
+degradation
+flow
+fused
+manufacturing process
+specific
+equal
+light emitting device
+vacuum
+alkenyl
+application
+bonded
+embodiments
+halo
+particular
+scan lines
+filter
+removing
+simplified
+solvent
+visible
+contacts
+organic LED display
+comprend
+computers
+described
+index
+latter
+receives
+thin-film
+carrier
+display unit
+heterocyclic
+organic LED OLED display
+structures
+atom
+cross sectional view
+flowing
+laptop
+organic light-emitting device
+primary
+produced
+reduction
+donor
+second transistor
+substituent
+fluorescent
+generation
+combination
+electron transport
+organic light emitting
+radiation
+respect
+scan signal
+turned
+zinc oxide
+limited
+outer
+preferred Method
+quantum
+substituents
+direct
+plan
+schematic cross-sectional view
+configuration
+phones
+required
+sensor
+water
+acid
+effective
+solution
+suitable
+surfaces
+dioxide
+monitor
+processing
+said
+silicon nitride
+sont
+various
+amino
+example
+result
+steps
+well
+atoms
+path
+position
+short
+sources
+compensating
+distance
+scan driver
+spectrum
+extending
+formulae
+etching
+processes
+produces
+transmitting
+accordance
+emitter
+stable
+auxiliary
+compared
+emitting light
+functional
+lights
+organic light emitting device OLED
+palladium
+protection
+amorphous
+host material
+passivation
+derivative
+durability
+electronic device
+novel
+scanning
+alkynyl
+ambient
+cellular
+characteristic
+gas
+insulation
+intensity
+mobile phone
+mobility
+possible
+chemical
+ensures
+mounted
+perspective view
+photovoltaic
+polymeric
+adapted
+potential
+dielectric
+pixel region
+televisions
+node
+pad
+printers
+removed
+stadium
+stored
+arrangement
+digital camera
+performing
+seal
+section
+surrounding
+aperture ratio
+assembly
+full
+maximum
+mixture
+player
+represented
+defects
+stack
+utilized
+voltage drop
+aryloxy
+bond
+combined
+expose
+monitors
+organic layers
+receive
+second electrodes
+sub-pixel
+aluminum oxide
+apart
+avec
+beam
+black
+constant
+density
+flat panel display
+point
+wiring
+barium
+coated
+complexes
+conversion
+fluoride
+gallium
+interface
+prepared
+printing
+entre
+planarization
+refractive
+silicon oxide
+storage capacitor
+triplet
+values
+contain
+driving method
+face
+organic light-emitting display apparatus
+pixel defining
+polyimide
+sides
+sign
+substrat
+support
+telephone
+thin film transistors
+vehicles
+amine
+capacitance
+compensate
+gap
+systems
+telephones
+variation
+exterior
+leakage
+ligands
+luminescence
+manufacturing cost
+thin film transistor TFT
+transparent electrode
+light emission
+molecule
+showing
+allowing
+bonding
+data signals
+design
+larger
+smaller
+total
+transmitted
+external light
+flat panel displays
+inside
+theater
+vapor
+consists
+coupling
+cycloalkyl
+frit
+interlayer
+mechanical
+metallic
+optoelectronic
+organic light emitting diode OLED display device
+anthracene
+sealant
+sealed
+strength
+allow
+derivatives
+edges
+encapsulating
+epoxy
+secondary
+compensated
+comprised
+enhancing
+interior
+inventive
+layer(s)
+light source
+minimized
+organic light emitting diodes
+preferred Device
+dispositifs
+electron injection
+general
+addition
+boron
+determined
+driving current
+extraction
+glass substrate
+halogen
+organic light-emitting
+outputs
+personal digital assistant PDA
+pressure
+zirconium
+conducting
+length
+mode
+organic light emitting element
+reaction
+changing
+correspond
+row
+sensing
+sheet
+stadium screen
+user
+conductivity
+connects
+medium
+organic LED device
+organic light emitting diode display device
+overall
+panels
+picture
+polymers
+representation
+resulting
+rings
+selon
+touch
+associated
+conditions
+divided
+driving circuit
+indium zinc oxide
+maintaining
+minimizing
+patterns
+Sodium
+cameras
+cyano
+display quality
+maintained
+mirror
+module
+OLED devices
+organic light emitting display apparatus
+overlapping
+particles
+scattering
+series
+transmittance
+upper electrode
+adjusted
+adjusting
+conventional
+covered
+received
+vehicle
+assistants
+billboards
+board
+body
+crossing
+electrons
+language
+negative
+penetration
+schematic diagram
+sufficient
+computer monitors
+die
+lower electrode
+nitro
+non-English
+scan line
+absorbing
+audio
+define
+digital cameras
+front
+levels
+memory
+sub-pixels
+third transistor
+work
+zone
+around
+converter
+extended
+faces
+involving
+large area wall
+openings
+organic emission layer
+plan view
+plane
+preparation method
+spacer
+vanadium
+ester
+imaging
+measured
+suppressed
+bidentate
+display area
+internal
+peut
+Potassium
+protect
+solid
+andan
+common electrode
+determining
+directed
+eliminates
+equipment
+high efficiency
+impact
+indium tin oxide ITO
+injecting
+laminated
+moiety
+overlap
+visibility
+aspect
+back
+consumer
+light-emitting layer
+linear
+measuring
+peak
+purity
+timing
+transmit
+air
+avoiding
+loss
+operational
+opposite electrode
+pulse
+therebetween
+white light
+agent
+cell phones
+couches
+counter
+current flowing
+currents
+cyclic
+environment
+image quality
+insulated
+organometallic
+presence
+color filter
+costs
+interference
+positive
+semiconductor layer
+absorption
+capacitors
+converting
+decreasing
+easy
+frequency
+gray
+inner
+organic LED display device
+organic light emitting diode device
+positions
+printed
+ruthenium
+stress
+transferring
+antimony
+center
+concentration
+designed
+first electrodes
+occurrence
+times
+active layer
+band
+condition
+cross-section
+filters
+hetero
+low power consumption
+luminous efficiency
+organic light emitting layer
+same material
+sequence
+tin oxide
+transparent substrate
+applies
+certain
+decreased
+enhance
+initial
+laptop computers
+lowest
+polyethylene
+prior
+selection
+signaling
+transmits
+average
+avoided
+carbazole
+chamber
+changed
+enabling
+extends
+outputting
+pyridine
+saturated
+silver Ag
+terminals
+utilizes
+utilizing
+wire
+exciton
+indium oxide
+notebook
+organic light emitting diode OLED device
+reflected
+screens
+techniques
+video camera
+circuitry
+column
+electronic devices
+horizontal
+incident
+individual
+ion
+span
+conjugated
+dark
+generator
+partial
+phenomenon
+phosphorus
+plus
+printer
+selecting
+connect
+encapsulation substrate
+exterior illumination
+first node
+fixed
+force
+navigation
+obtain
+organic electroluminescence display device
+organic light emitting display OLED
+peripheral
+phase
+preferred Composition
+storing
+bias
+car
+cathode electrode
+corresponds
+driving voltage
+emission layer
+emissive layer
+emitters
+entire surface
+heating
+light output
+metal oxide
+metals
+products
+shift
+thin film
+aligned
+anode electrode
+causes
+chosen
+effects
+enhances
+exposes
+first capacitor
+flat panel display device
+flexible displays
+make
+mixed
+reacting
+second substrates
+achieving
+backlight
+cellular phone
+changes
+charged
+data voltage
+drives
+ground
+heads
+induced
+lead
+planar
+rhodium
+biphenyl
+camcorders
+decrease
+distribution
+eliminated
+flexibility
+flows
+game
+incorporated
+laser printers
+lifespan
+occupied
+sensitive
+silicon dioxide
+spin
+tantalum
+top surface
+adhesion
+composed
+exhibit
+maintain
+means
+non-pixel
+photodetectors
+pixel unit
+polycyclic
+power source
+protecting
+treatment
+arylene
+double
+evaporation
+exemplary
+light emitting element
+micro-displays
+obtaining
+organic light emitting diodes OLEDs
+polycrystalline
+scale
+text
+transparent displays
+acrylic
+benzene
+continuous
+defect
+feedback
+height
+high resolution
+hole blocking
+impurities
+minimizes
+mixing
+pixel electrodes
+power supply
+protects
+test
+avoids
+bonds
+chloride
+coordinates
+correction
+detecting
+display region
+drive transistor
+eine
+environmental
+Erfindung
+filled
+location
+moving
+n-type
+passing
+phthalocyanine
+reflecting
+same time
+sets
+technique
+transmissive
+alkali
+degree
+depending
+discharge
+enable
+fourth transistor
+heteroaromatic
+high luminance
+hydrocarbon
+intermediate layer
+object
+preferred Material
+scan signals
+schematic block diagram
+stores
+tension
+upper surface
+varying
+viewfinders
+analog
+cavity
+cette
+channel region
+charging
+compensates
+composite
+der
+extend
+first power source
+hole-transporting
+low cost
+OLED panel
+organic compound
+organic electroluminescent display device
+organic light-emitting devices
+organic light-emitting diode OLED
+p-type
+photoresist
+solubility
+transferred
+adding
+alternating
+amorphous silicon
+anda method
+doping
+joined
+lamp
+microcavity
+monomer
+organic LED OLED display device
+organic LEDs
+perpendicular
+personal digital assistants
+pixel defining layer
+processor
+protected
+sandwiched
+sum
+supporting
+alignment
+atmosphere
+away
+betrifft
+communication
+compositions
+control signal
+counter electrode
+halide
+iron
+layout
+maintains
+occurring
+organic electroluminescence display
+penetrating
+personal computer
+polarizing
+refractive index
+stably
+titanium oxide
+top view
+causing
+computer monitor
+damaged
+deux
+dispersed
+first direction
+free
+near
+overlaps
+pixel regions
+polycarbonate
+problem
+realized
+reference voltage
+represents
+service
+silyl
+simplifying
+turn
+variations
+vertical
+catalyst
+conductive material
+detected
+drivers
+eliminating
+first surface
+masks
+occurs
+orbital
+oxidation
+sealing member
+second capacitor
+sensors
+show
+static
+switching transistor
+acceptor
+been
+billboard
+condensed
+ein
+linked
+load
+niobium
+opaque
+productivity
+results
+rows
+thick
+underlying
+uniform brightness
+adjust
+buffer layer
+carried
+cesium
+colored
+coordinated
+dye
+earth
+exploded
+irradiating
+organic light-emitting diodes
+oxides
+oxynitride
+parameters
+parts
+permeation
+photo
+photosensitive
+require
+shadow
+suppressing
+switches
+alloys
+ces
+chaque
+commande
+comportant
+cycle
+deviation
+ink
+inorganic material
+operated
+organischen
+osmium
+overlapped
+preferred Compound
+separating
+target
+terephthalate
+thiophene
+unsubstituted
+variable
+achieve
+another electrode
+appropriate
+branched
+capability
+comme
+formule
+full-color
+functions
+highest
+light emitting layer
+machine
+minimize
+neighboring
+non-display
+open
+second node
+thicknesses
+viewing angle
+cause
+conductor
+display apparatus
+dopants
+electron injection layer
+electron transport layer
+failure
+flexible substrate
+hafnium
+lateral
+light-emitting device
+lowering
+mounting
+necessary
+organic solar cells
+performs
+physical
+polysilicon
+reducing power consumption
+reliable
+resonance
+sealing substrate
+variety
+visual
+will
+aliphatic
+andmethod
+apply
+case
+complete
+converted
+electron-transporting
+exposure
+fabrication method
+filler
+ladite
+laser beam
+magnesium oxide
+naphthalene
+passes
+porte
+reverse
+seconde
+semitransparent
+still
+table
+way
+wet
+wide viewing angle
+work function
+blue light
+carboxylic
+carrying
+crystallization
+encapsulated
+first region
+infrared
+initialization
+interval
+liquid crystal display
+matrice
+neodymium
+non-uniformity
+opposing
+organic light emitting devices OLEDs
+parameter
+pass
+permet
+pluralit¨¦
+positioning
+rapid
+remaining
+unoccupied
+varied
+wires
+ability
+atomic
+balance
+capacity
+central
+copolymer
+determine
+display devices
+driving transistors
+electrostatic
+employing
+features
+filling
+fluorinated
+formula IV
+hours
+illuminating
+molecules
+neutral
+optoelectronic devices
+organic light-emitting display
+outre
+points
+premier
+reflector
+second region
+store
+window
+yellow
+achieves
+adjusts
+arrays
+axis
+barium oxide
+compact
+constructed
+contenant
+courant
+drain regions
+fluorine
+high brightness
+housing
+irradiated
+irradiation
+lens
+mass
+naphthyl
+one aspect
+organische
+permits
+relationship
+tellurium
+top-emitting
+active-matrix
+bank
+carbonyl
+charges
+close
+coordinate
+corrected
+defines
+direct contact
+distributed
+head
+heteroatom
+leakage current
+mit
+mobile telephone
+nitrile
+non-pixel region
+operate
+organic light emitting display panel
+organic light-emitting diode device
+pads
+personal digital assistant
+remove
+stage
+sub
+substance
+active matrix
+acyl
+arylthio
+attaching
+bright
+clock
+columns
+decreases
+deuterium
+distortion
+enough
+give
+heated
+heterostructure
+insulator
+lithium fluoride
+metal complex
+methyl
+organic light-emitting device OLED
+organic materials
+particulier
+pixel area
+PLED
+plusieurs
+previous
+rear
+salt
+seals
+sensed
+simple structure
+specification
+triarylamine
+unsaturated
+volume
+von
+writing
+arylalkyl
+bus
+diffusion
+facilitates
+hole transport layer
+makes
+mechanism
+mobile computer
+modulation
+normal
+parasitic
+poly
+polythiophene
+profile
+rubidium
+solar cells
+structural
+utilization
+afin
+aging
+cadmium
+cobalt
+combining
+detection
+drain region
+dual
+enhancement
+fine
+first voltage
+hydroxyl
+impurity
+laptop computer
+laquelle
+light emitting diode
+partie
+permettant
+planarizing
+polyaniline
+preset
+serve
+sowie
+sulfonic
+accuracy
+angles
+auxiliary electrode
+bismuth
+calcium oxide
+carboxyl
+chain
+comporte
+converts
+donor substrate
+enabled
+fast
+flowchart
+gate line
+groupe
+molybdenum Mo
+narrow
+organic electroluminescent device
+organic light-emitting diode OLED device
+power line
+reflectivity
+removal
+requirements
+setting
+spot
+sulfide
+sulfur
+surrounds
+thin-film transistor
+types
+wavelengths
+alkylene
+curing
+different colors
+driving TFT
+electro
+electro-optical
+hetero aryl
+heteroarylene
+inexpensive
+influence
+ledit
+lequel
+motion
+non-emission
+nozzle
+optoelectronic device
+organic LED OLED device
+organic light
+partition
+perform
+peuvent
+plastic substrate
+plates
+portable information terminal
+repeating
+reset
+room
+select
+short circuit
+spectra
+transparent conductive material
+two electrodes
+acids
+adhering
+affected
+bending
+boundary
+chip
+combine
+consumer product
+curved
+determines
+discloses
+dispersion
+divalent
+factor
+fused ring
+gradation
+least two
+low driving voltage
+minimum
+modes
+most
+moved
+multilayer
+preferred Materials
+represent
+representing
+reproduction
+second conductive
+serves
+signs
+simplifies
+sortie
+suppresses
+surround
+temperatures
+treating
+uniform luminance
+whether
+yields
+activated
+added
+addressable
+avoid
+carbene
+cell phone
+construction
+contact hole
+coordination
+cured
+definition
+detects
+emission region
+first conductive
+fluorene
+gamma
+holding
+laminating
+LCD device
+life span
+light emitting display
+offset
+organic electronic devices
+organic film
+organic light emitting display OLED device
+organic light-emitting layer
+package
+place
+polarizer
+precursor
+preferred Compounds
+problems
+reflective electrode
+roughness
+saturation
+soluble
+solvents
+subpixels
+superior
+tungsten oxide
+Verwendung
+yttrium
+adhered
+aluminum nitride
+battery
+blocks
+book
+cathodes
+ceramic
+coefficient
+conduction
+contrast ratio
+cyclometallated
+disclosure
+display substrate
+efficiencies
+electron-transport
+exemplary embodiment
+first device
+groove
+high-resolution
+illuminated
+inkjet
+ions
+layered
+light emitting devices
+mindestens
+multicolor
+OLED structure
+periodic
+perylene
+phosphorescent material
+plasma display panel PDP
+related
+reproducibility
+requiring
+selective
+semi-transparent
+shaped
+source region
+subpixel
+technology
+bidentate ligand
+bound
+delay
+diameter
+directions
+dry
+electroluminescent device
+existing
+explaining
+flat-panel
+integer
+light emitting elements
+lightweight
+manganese
+measurement
+members
+organic photodetectors
+organic solvent
+phosphorescence
+photolithography
+pixel circuits
+pixel portion
+pixel structure
+polarization
+polymerization
+projection
+replaced
+silica
+solar cell
+tertiary
+testing
+visible light
+alkaline
+annealing
+ayant
+dimension
+driving thin film transistor
+einen
+electromagnetic
+ensuring
+equivalent
+etched
+exhibiting
+facilitate
+field emission display FED
+fifth transistor
+first portion
+gamut
+heteroalkyl
+light extraction efficiency
+lighting device
+lower substrate
+modifying
+polyester
+schematic sectional view
+Schicht
+second surface
+sense
+side view
+structured
+sulfonate
+acryl
+anodes
+appliance
+aralkyl
+benzocyclobutene
+black matrix
+color purity
+content
+couleur
+create
+cycloalkenyl
+detector
+drying
+first terminal
+frames
+incorporating
+inverted
+least one organic
+media
+multimedia
+obtains
+occur
+oder
+organic light-emitting diodes OLEDs
+phosphine
+planarization layer
+reactive
+realizing
+responsive
+second terminal
+service life
+spectral
+sputtering
+strontium
+sulfonyl
+surrounded
+tetra
+arylamine
+basis
+beams
+capacitive
+color filters
+corrosion
+cross section
+crystalline
+depth
+desirable
+dispos¨¦e
+dividing
+down
+drive current
+employed
+fabrication process
+foil
+forward
+gate voltage
+hole-transport
+illustrates
+indium-tin
+inert
+installed
+Leuchtdiode
+light emitting diodes
+nodes
+noise
+organic thin film
+passivation layer
+phenanthroline
+picture quality
+plasma display panel
+pyridyl
+radical
+rhenium
+second direction
+shielding
+standard
+taken
+tel
+tels
+turning
+whole
+absorbs
+accurate
+amide
+backlighting
+cathode layer
+contained
+disposing
+electro-luminescent
+electronic book
+emitting layer
+epoxy resin
+external impact
+gate electrodes
+green light
+high contrast
+identical
+improvement
+ist
+leur
+lowered
+magnetic
+manufacturing organic light emitting display device
+melting
+mobile phones
+moieties
+navigation system
+non-light
+one surface
+organic electronic device
+oxide semiconductor
+packaging
+pixel areas
+placing
+polystyrene
+preferred Property
+programming
+red light
+refraction
+repeat
+rigid
+schematic representation
+second portion
+semiconducting
+spacers
+specified
+stacking
+timing controller
+top-emission
+trous
+two substrates
+urethane
+vanadium oxide
+vinyl
+walls
+able
+acts
+aqueous
+calculating
+chromaticity
+combinations
+comparing
+conductive layer
+contamination
+crossing regions
+desired luminance
+discharged
+dissolved
+electric current
+electronics
+emissive dopant
+first electrode layer
+fluid
+hermetic
+inserted
+light efficiency
+light emitting material
+modified
+modules
+non-display area
+notamment
+organic emissive
+organic light emitting display device OLED
+overlying
+pentoxide
+periphery
+portable electronic device
+preferred Process
+quinoline
+realize
+requires
+separation
+shadow mask
+spots
+stainless
+states
+steel
+synthesized
+third electrode
+third node
+triphenylene
+utilisation
+video signal
+visible spectrum
+wider
+zirconium oxide
+acetate
+ambient light
+appliances
+applicable
+base substrate
+carbide
+complexity
+crystallized
+cut
+deformation
+deposit
+einem
+electrochromic
+emission control signal
+except
+extracted
+fabricate
+first power supply
+fixture
+gate lines
+goggle
+Herstellung
+isolated
+join
+keeping
+lead oxide
+Leuchtdioden
+lifetimes
+lumineuse
+metal layer
+monoanionic
+OLED element
+organic electroluminescent display
+PDAs
+phototransistors
+polarity
+protruding
+second voltage
+semiconductors
+several pixels
+silane
+silicon oxynitride
+sublimation
+tant
+thermal stability
+three-dimensional
+toluene
+transition metal
+tuned
+turn-on
+viewed
+absorbed
+alcohol
+alkylthio
+anthracene compound
+aux
+bent
+bridged
+calculated
+capping
+cation
+closed
+cooling
+detect
+discharging
+discrete
+dummy
+electric field
+electrical contact
+electron blocking
+enclosed
+ensured
+entering
+error
+ethyl
+exemple
+gates
+high response speed
+implementing
+improved efficiency
+ketone
+large-sized
+lithium oxide
+long lifetime
+low drive voltage
+movement
+niveau
+notebook computer
+OLED apparatus
+operates
+operations
+optimized
+parasitic capacitance
+pendant
+polycrystalline silicon
+preferred Properties
+prolonged
+resistor
+second electrode layer
+semiconductive
+shorter
+silicone
+stationary
+synthetic
+thin film encapsulation
+transportation
+tube
+two-dimensional
+Verfahren
+wide range
+addressing
+advertising
+affichage
+aligning
+alkoxycarbonyl
+attachment
+bearing
+bridge
+carbazolyl
+carbocyclic
+characterized
+closer
+conductors
+connections
+connector
+control signals
+core
+correcting
+couple
+couples
+dyes
+effective manner
+electrochemical
+electroluminescent material
+enlarged
+equipped
+exposed portion
+film-forming
+first power
+first side
+hole transport material
+hydroxy
+known
+life-span
+light-emitting element
+manufacturing costs
+manufacturing organic light-emitting display device
+mechanical strength
+membered
+monomers
+naphthalate
+output terminal
+percent
+perfluoroalkyl
+phosphate
+photoluminescent
+plural
+polyethylene terephthalate
+potassium oxide
+protrusion
+protrusions
+release
+second organic
+segments
+smart
+subsequent
+sulfone
+temperature change
+thin-film transistor TFT
+threshold voltages
+transparency
+transparent conductive
+trioxide
+trivalent
+usage
+vorliegende
+wave
+acrylate
+alkylamino
+andorganic
+appareil
+binder
+blue emission
+boards
+carriers
+cast
+consumer products
+current source
+decay
+embedded
+expansion
+external moisture
+ferrite
+first gate electrode
+first organic
+getter
+guide
+inorganic film
+light emitting layers
+locations
+longitudinal
+low voltage
+measures
+mince
+mono
+moyen
+non-emissive
+offers
+opposed
+pouvant
+power efficiency
+pyrrole
+recombination
+relation
+Rendering
+representative
+right
+rise
+room temperature
+rubrene
+similar
+strong
+subject
+substitution
+substitutions
+transfers
+transparent material
+travers
+treated
+upper substrate
+voltage level
+wobei
+absorb
+adjustment
+alumina
+another transistor
+apparatuses
+bezel
+camcorder
+cerium
+chacun
+circular
+crosslinked
+curable
+dependent
+deposition material
+duty
+effet
+electricity
+electroluminescent devices
+electron-injection
+emission control lines
+emission control signals
+encapsulate
+ensure
+excited
+faible
+first color
+fluorescence
+grid
+heterocyclic compound
+hole-injection
+indium-tin-oxide
+interconnection
+intersection
+kept
+lanthanum
+light sources
+light-emitting elements
+ligne
+losses
+lower surface
+manufacturing yield
+moves
+OLED array
+organic semiconductor
+particle
+peaks
+phenylene
+precision
+predetermined region
+production cost
+pyrimidine
+ranges
+reproducing
+ruthenium oxide
+self-emissive
+silver alloy
+sizes
+substances
+substantial
+sulfate
+supplying scan signals
+suppress
+switched
+tablet
+tin-phosphate
+top electrode
+two layers
+type display
+unnecessary
+upper portion
+vanadate
+varies
+vers
+alternative
+andforming
+anion
+aryl group
+automotive
+bottom electrode
+bottom surface
+bottom-emitting
+chambers
+clear
+compatible
+complementary
+contact holes
+cutting
+damaging
+dead
+defective
+derived
+display screen
+drive circuit
+electron transport material
+electronic apparatus
+emission efficiency
+fiber
+field-effect
+fonction
+frit seal
+gaps
+gate terminal
+grooves
+improving reliability
+inner surface
+insbesondere
+large area
+life time
+light-emission
+linking
+liquid crystal displays
+logic
+measure
+micro
+mother
+nature
+needed
+oligomer
+organic thin film transistor
+passed
+permit
+personal digital assistants PDAs
+phosphorus oxide
+photons
+polyamide
+protection layer
+reflective layer
+remains
+roll
+secured
+solid-state
+sous
+styryl
+substrate main body
+supplying data signals
+tandem
+thicker
+tin-phosphate glass
+titanium dioxide
+tridentate
+triplet energy
+ultraviolet
+underlying organic layers
+versus
+white emission
+absorbent
+access
+alkali metal
+aluminum zinc oxide
+annealed
+anthracenyl
+antimony oxide
+approximately
+aromatic group
+beryllium
+bismuth oxide
+broad
+cellules
+channels
+circuit block diagram
+conductive polymer
+copolymers
+copper oxide
+crosstalk
+curve
+deteriorated
+differential
+display system
+distinct
+drive voltage
+driving thin film transistor TFT
+driving unit
+first sub-pixel
+gel
+graphite
+here
+high luminous efficiency
+hole injection layer
+hole-injecting
+hybrid
+illustration
+indicator
+injected
+input terminal
+intersecting
+intersections
+jet
+laptops
+left
+light emitting efficiency
+light emitting region
+light-emitting layers
+light-emitting material
+liquid crystal display LCD
+lowers
+middle
+non-English language text
+OLED comprising
+one frame
+optional
+organic solar cell
+output lines
+oxadiazole
+pager
+pairs
+pixel-defining
+platinum Pt
+possibility
+processed
+program
+pulses
+quantity
+quartz
+rapport
+read
+recess
+reflect
+rhodium oxide
+saving
+shapes
+sodium oxide
+spacing
+spin coating
+square
+stages
+strip
+stripe
+sulfoxide
+symmetric
+tape
+tellurium oxide
+transparente
+triazole
+affecting
+anti-reflection
+arranging
+arylamino
+atmospheric
+boron oxide
+casting
+commander
+comparable
+complexe
+connect¨¦e
+convert
+convex
+coumarin
+cracks
+current density
+curvature
+decorative
+donor film
+dont
+durch
+elongated
+enthaltend
+excess
+excitation
+explanatory
+external quantum efficiency
+ferric
+first end
+forme
+game machine
+gases
+grain
+graph
+heavy
+heteroalkenyl
+heteroatoms
+indicating
+isonitrile
+kitchen
+laminate
+lead-borate
+lead-borate glass
+Licht-emittierende
+light emitting area
+light emitting unit
+light-absorbing
+limit
+loop
+medical
+methacrylate
+move
+nanoparticles
+nitrogen atom
+organic electroluminescence element
+organic electroluminescent devices
+organic electroluminescent element
+organometallic complex
+outer side
+proportional
+ray
+rays
+reducing manufacturing cost
+reflects
+relate
+resistivity
+second electrode layers
+second metal
+second pixel
+second pixels
+second power source
+second sub-pixel
+segment
+senses
+sidewall
+signal lines
+simple process
+sorte
+spatial
+tapered
+tetracene
+translucent
+unit pixel
+voltage source
+wirings
+ytterbium
+amplifier
+another embodiment
+aromatic ring
+attach
+bands
+calculator
+charge injection
+cleaning
+code
+color shift
+compares
+completed
+completing
+conducted
+conducteur
+control circuit
+degrees
+dem
+developing
+dimensional
+efficient manner
+electrical characteristics
+electro-optical device
+electron mobility
+electrophosphorescent
+eliminate
+emissions
+erfindungsgem??e
+excessive
+facilitating
+field emission display
+final
+first pixel
+fluoroalkyl
+furan
+glass transition temperature
+held
+heterocyclic compounds
+high stability
+high-quality
+host compound
+hydrocarbyl
+image data
+implemented
+indices
+indium gallium oxide
+initializing
+inorganic layer
+isolation
+lamination
+lamps
+lasers
+light extraction
+light-emitting diode
+magnitude
+microns
+modulated
+molecular weight
+natural
+nouveaux
+OLED display panel
+organic light emitting device comprising
+organic light emitting pixels
+organic light emitting unit
+organic light-emitting diode OLED display
+phenolic
+phosphorescent dopant
+photoluminescence
+pixel units
+polyether
+polyethylene naphthalate
+polymerizable
+porous
+programmed
+proportion
+protective film
+protective layer
+purpose
+reacted
+reading
+recording
+rectangular
+residual
+respective pixels
+rubidium oxide
+second end
+second regions
+sections
+semiconductor device
+sensitivity
+sequential
+serving
+shelf
+shield
+shifts
+simple manner
+smooth
+stacked structure
+starting
+switching thin film transistor
+thin film transistors TFTs
+touch screen
+tune
+turns
+uneven
+unique
+utilisant
+vacuum deposition techniques
+vie
+wet process
+would
+zones
+active area
+active matrix OLED display
+address
+andelectronic
+anionic
+becomes
+borosilicate
+bottom-emission
+capabilities
+carboxylic acids
+cellular telephone
+central portion
+color display
+commercial
+commutation
+computing
+concave
+consist
+consistant
+constituting
+copper phthalocyanine
+cost-effective
+crack
+data current
+degraded
+delivering
+demultiplexer
+devicea
+differences
+dissipation
+driving organic light emitting display
+eitherR
+employs
+ensemble
+expensive
+feature
+first capacitor electrode
+first pixel electrode
+first scan signal
+flow diagram
+fluorescent dopant
+general method
+germanium
+green emission
+heterocycloalkyl
+high quality
+holds
+hydrophobic
+illumination device
+imidazole
+implement
+inhibits
+inorganic materials
+intervals
+layer structure
+leads
+light-emitting devices
+linkage
+lorsque
+lower power consumption
+matrix material
+minutes
+mixtures
+modification
+molybdenum oxide
+multi-layer
+multiple pixels
+nitrides
+nombre
+OLED elements
+optimal
+optimizing
+options
+outer surface
+output voltage
+partir
+phosphor
+phosphoric
+polymerizing
+polypropylene
+polyvinyl
+power supply line
+power supply voltage
+preferred Parameter
+presented
+pressing
+print
+pure
+radius
+register
+reinforcing
+relaxation
+sandwich
+second capacitor electrode
+second OLED
+securing
+separates
+siloxane
+singlet
+son
+spray
+sulfanyl
+sulfinyl
+taper
+tetravalent
+triphenylamine
+vanadate glass
+voltage difference
+was
+wird
+acrylic resin
+active region
+alkenylene
+alkylaryl
+ammonium
+AMOLED display
+appearance
+aromatic rings
+autre
+carboxylic acid
+centered
+chart
+coatings
+comparison
+conductive layers
+connectors
+contacted
+control lines
+correct
+deposition process
+desiccant
+desired brightness
+detailed
+different color
+dimensions
+dried
+driver circuit
+dudit
+dynamic
+electrode layers
+electron-injecting
+errors
+ethylene
+extracting
+ferrite oxide
+first metal
+foreign
+former electrode
+fournir
+high-efficiency
+hole-blocking
+home
+hosts
+image display
+improved lifetime
+input voltage
+isolating
+least part
+lengths
+light emission efficiency
+light-scattering
+lignes
+lower electrodes
+luminaire
+manufacturing processes
+mean
+metal alloy
+metal atom
+nitrogen-containing
+non-aromatic
+OLED displays
+OLED pixels
+operating voltage
+optics
+opto-electronic
+organic electroluminescence
+organic light emitting material
+organic light emitting member
+oriented
+outputted
+parmi
+peak wavelength
+PEDOT
+Periodic Table
+phenanthrene
+phosphorescent emitter
+photodetector
+phototransistor
+photovoltaic devices
+polyacrylate
+polymethyl
+portable phone
+power source ELVDD
+present disclosure
+prevention
+produire
+pyrazine
+referred
+reflectance
+rendement
+rigidity
+risk
+sampling
+second color
+second conductive layer
+second power
+second power supply
+second transistors
+shrinkage
+sink
+slit
+sound
+spaces
+species
+subjected
+supported
+surface roughness
+takes
+trifluoromethyl
+two transistors
+uniform thickness
+vacuum-deposited
+vary
+viewer
+virtual
+accommodate
+advantages
+allowed
+aluminum alloy
+amino group
+arrangements
+aryle
+assembled
+backbone
+baking
+bar
+barrier layer
+blue pixels
+buffer layers
+carbonate
+ceiling
+charge-transporting
+comprennent
+condensateur
+contact resistance
+control electrode
+control unit
+corresponding one
+created
+das
+desktop
+destination
+developed
+dibenzofuran
+drain terminal
+electronic equipment
+emissive layers
+emissive region
+excluding
+fill
+fills
+first conductive layer
+first switch
+fit
+fluoranthene
+fluorenyl
+followed
+fonctionnement
+grille
+halogenated
+hardening
+heads-up
+improved performance
+inputted
+inspection
+insulate
+ionization
+large-area
+least one hole
+lesdits
+light emitting member
+light weight
+light-to-heat
+lighting applications
+loading
+luminance efficiency
+lumineux
+matching
+maximized
+metal complexes
+minces
+modulating
+monochromatic
+non-uniform
+nucleus
+office
+organic electroluminescence device
+organic solvents
+out-coupling
+pad area
+pagers
+pas
+passive matrix
+phosphorescent compound
+phosphoric acid
+photo sensor
+polyfluorene
+polymerized
+portable device
+portable telephone
+primary colors
+primary electrode
+procedure
+proviso
+pyrenyl
+quinolate
+radio
+ratios
+remote
+requirement
+respectivement
+response speed
+ring system
+sans
+sealing material
+second gate electrode
+second switch
+second TFT
+selection signal
+semiconductor material
+separate emissive
+sharpness
+shifted
+shorting
+shorts
+simpler
+solaires
+spin-coating
+styrene
+sub-layer
+supports
+Telecommunication
+thin film deposition apparatus
+traitement
+unevenness
+upper part
+verre
+via hole
+views
+vinylene
+viscosity
+wide variety
+written
+absence
+activation
+active matrix displays
+adverse
+aluminum-neodymium
+analysis
+approaches
+aspects
+assists
+automatic
+autres
+available
+backlights
+benzoxazole
+bit
+block representation
+blocked
+blue region
+boronic
+bromine
+buses
+charge transport
+composants
+consiste
+constitute
+couleurs
+current flow
+current mirror circuit
+dam
+determination
+different thicknesses
+discharges
+display applications
+dopant compound
+dot
+dots
+drops
+eines
+electrical energy
+electro-luminescence
+emission color
+emission control line
+emission layers
+emissive material
+enclosed space
+end groups
+energies
+energy level
+evaporated
+excitons
+eye
+filtering
+first area
+first control signal
+first scan line
+first TFT
+first thin film transistor
+fullerene
+growth
+guest
+haute
+high glass transition temperature
+homogeneous
+hue
+identification
+improved stability
+inclined
+infiltration
+insertion
+integrating
+integration
+interconnecting
+introduced
+inverter
+iridium complex
+layout view
+limiting
+luminosity
+manufacturing organic light emitting display
+margin
+mass production
+metal foil
+monodentate
+multilayered
+nitro group
+OLED substrate
+organic EL display device
+organic emission layers
+organic emitting
+organic laser
+organic light emitting devices OLED
+organic light emitting diodes OLED
+orthogonal
+output signal
+oxidized
+panneau
+paths
+permitting
+phosphino
+photoelectric
+photosensor
+photovoltaic device
+pixel array
+pixel defining layer PDL
+portable game machine
+possesses
+production yield
+projected
+protrudes
+provision
+rare
+rates
+red emission
+resistant
+resonant
+rib
+samarium
+schematic plan view
+second organic layer
+second pixel electrode
+second set
+second side
+secondary electrode
+selects
+shared
+shock
+significant
+silicide
+single bond
+stainless steel
+sticking
+straight
+sub-frame
+sub-frames
+sulfonated
+switching TFT
+telecommunications
+telle
+terbium
+tetra substitutions
+tetravalent metal
+top plan view
+tunable
+word
+absolute
+acryl-based
+active matrix OLED
+alkaline earth metal
+amounts
+anda flat panel display device
+another end
+anthracene derivative
+architecture
+arenes
+balanced
+bestehend
+bivalent
+blue light-emitting
+breaking
+calcium oxide CaO
+cellular phones
+cet
+chacune
+charge carrier
+chemical structure
+cholesteric
+chrome
+circuit board
+clock signal
+coat
+color coordinates
+compensation circuit
+composant
+compound(s)
+conductrice
+configurations
+conjugated polymer
+container
+corner
+creating
+cross-talk
+cyclometallated ligand
+dark spots
+data driving circuit
+DC-DC converter
+depends
+deposition source
+derivatized
+deuterated
+dibenzothiophene
+digital-to-analog
+displayed image
+distances
+drain current
+driving device
+edge portion
+electrical connection
+emitting dopant
+employ
+energizing
+evaporating
+expanded
+extension
+favorable
+first OLED
+first organic layer
+first period
+first set
+flash
+flat display device
+flow chart
+foran
+frame period
+gate insulation
+glass structure
+grayscale
+grounded
+heads-up displays
+heteroleptic
+high durability
+high-level
+homoleptic
+humidity
+insulation layer
+lanthanide
+leading
+least one layer
+leaving
+liaison
+light-emitting region
+light-to-heat conversion
+loaded
+luminesce
+manufacturing time
+masking
+material(s)
+maximize
+meet
+metal material
+mise
+movable
+multi-layered
+multiple layers
+multiples
+N-channel
+nanometer
+non-display region
+non-emitting
+nozzles
+OLED material
+OLED pixel
+operational stability
+opposite side
+optical properties
+optical sensor
+organic emissive layer
+organic light emitting layers
+organic light-emitting element
+organic optoelectronic device
+overcoat
+passage
+paste
+pentacene
+personal portable device
+pixel driving circuit
+planarized
+players
+polyacene
+polyetherimide
+polyphenylene
+polypyrrole
+portable terminal
+power supply unit
+precise
+predetermined distance
+projecting
+projector
+proper
+quantum efficiency
+quick
+random
+rapporte
+robustness
+same plane
+scatter
+schematic illustration
+screen printing
+second area
+second period
+second scan line
+second scan signal
+self-emission
+shortening
+silicon carbide
+simultaneous
+sind
+site
+smart phone
+sub-layers
+surface area
+switching element
+synchronization
+terms
+tetradentate
+theatre
+thin film encapsulation layer
+thin films
+thiol
+third conductive
+transfer layer
+transparent conductive layer
+transparent conductive oxide
+triazine
+TV set
+twisted
+unsubstituted phenyl
+vacuum-deposited organic materials
+vapor deposition
+versa
+versatile
+vice
+vice versa
+Vorrichtung
+waveguide
+widths
+working
+write
+ablation
+absent
+actuator
+additional electron
+addressed
+adhesive layer
+alicyclic
+ambient environmental conditions
+antistatic
+assemblies
+assisting
+ausgew?hlt
+borate
+bromide
+carboxy
+champ
+circumference
+colour
+combines
+connexion
+control line
+control terminal
+controllable
+converting electrical energy
+could
+crystallizing
+current path
+cyclo
+days
+decomposition
+den
+dichloromethane
+display panels
+division
+dome
+double heterostructure
+duration
+electroluminescence device
+electronic circuit
+electrophoretic
+encapsulation layer
+enclosing
+explanatory view
+first material
+fixing
+flat panel display devices
+flicker
+Formel
+former substrate
+former transistor
+functionality
+functioning
+gain
+general formula
+gives
+glasses
+glue
+grande
+hard
+hermetic seal
+heteroaromatic ring
+heterocyclic group
+high quantum efficiency
+hole-transport layer
+hot
+impact resistance
+inactive
+incandescent
+incident light
+indicators
+inner side
+integral
+interconnects
+interrupted
+isoquinoline
+joining
+layer covering
+lesdites
+light scattering
+light-emitting layer comprising
+light-transmissive
+long lifespan
+low-reflectivity
+low-resistance
+luminescent region
+maintenance
+manufacturing OLED display
+matrix form
+metal catalyst
+modifier
+modifies
+molybdenum-tungsten
+mother substrate
+motor
+mount
+new OLEDs
+night
+numbers
+odd
+one frame period
+one pixel
+optique
+organic electroluminescent
+organic layer pattern
+organic LEDs OLEDs
+organic light emitting diode devices
+organic protection
+organic thin film transistors
+organic transistors
+original
+oxazole
+paper-thin
+peeling
+percentage
+perimeter
+peripheral region
+phenolic resin
+phosphorescent decay process
+phosphorescent decay rate
+phosphorescent dopant compound
+photodiode
+pigment
+plane view
+polyacrylates
+powder
+predominant
+preparation process
+prior art devices
+processability
+proximity
+pulsed
+ranging
+rapid enough
+receiver
+red light emitting
+reduced power consumption
+reference value
+regioregular
+removes
+resist
+resistive
+Rhydrogen
+sandwiching
+satisfies
+second material
+second signal
+secure
+selenide
+sensiblement
+shifting
+shortened
+sich
+signal line
+slim
+source electrodes
+source terminal
+start
+subjecting
+symmetric molecular structure
+telles
+tetrahydrofuran
+third sub-pixel
+threshold voltage Vth
+total amount
+trains
+transflective
+transparent electrodes
+tris
+two sets
+unit¨¦s
+unwanted
+utilize
+vacuum deposition
+Vref
+wafer
+water vapor
+wavelength region
+werden
+acceptor group relative
+accessible
+act
+activates
+admitted
+admitted radiation
+advantage
+alternate
+amine moieties
+andelectronic device
+another aspect
+another substrate
+aqueous dispersion
+atomic weight
+azlactone-related
+azlactone-related dopant compounds produce electroluminescence
+backplane
+base material
+behind
+binding
+blue-emitting
+boiling
+breakage
+brighter
+building
+cable
+calculates
+chloroform
+color filter array
+colorsand
+commission
+composition comprising
+conductive nonmetallic
+conductive nonmetallic layer comprising
+constituted
+constitutes
+contient
+coordination number
+correspondant
+covalent
+cracking
+cristaux
+current efficiency
+current mirror
+dependence
+device efficiency
+diffusing
+dimethyl
+direction perpendicular
+dispersions
+display driver
+display element
+dopant material
+DVD player
+edge region
+electroluminescence-producing
+electron-injection properties
+electron-transport layer
+emission spectrum
+emissive molecule
+exciton triplet state energy
+ferric chloride
+first signal
+fluoro
+forAn optoelectronic device
+format
+found
+functional groups
+fused aryl ring
+glass frit
+gravure
+greater shelf life stability
+harmful
+heterocyclic ring
+heterostructures
+high contrast displays
+high level
+high voltage
+hold
+hole injection layers
+hole transport layer HTL
+hole transport layers
+hydrogen atoms
+identified
+image signal
+improved uniformity
+improving display quality
+incorporation
+industrial
+infrared light
+initialization voltage
+inks
+input signal
+intended
+interface region
+intersect
+intrinsic
+introducing
+lap-top
+latter substrate
+latter transistor
+least one inventive organic light-emitting diode
+least one ligand
+lesquels
+Licht
+light emitting surface
+light intensity
+light-emitting area
+light-emitting component
+lighting system
+liquides
+lithium fluoride LiF
+longueur
+low-reflectivity OLEDs
+low-resistance electrical contact
+lower portion
+luminescent zone
+luminescente
+matrix-type
+melts
+microcavity effects
+mobile electronic device
+molar
+monoxide
+nanometers
+nanotube
+narrower
+niobium oxide
+nonmetallic
+nonmetallic cathode
+nonmetallic cathodes
+observed
+one electrode
+one triarylamine derivatized phenoxide
+optical energy
+optical transmission
+optimize
+organic layer comprising
+organic light emitting elements
+organic light-emitting material
+output current
+passive-matrix
+peripheral area
+phenoxide
+phosphonate
+photodiodes
+photoluminescent quantum yields
+photovoltaic cell
+picolinate
+planarize
+plastic material
+polyacene compound
+polymer material
+polymethylmethacrylate
+port
+poss¨¦dant
+power voltage
+powered
+pre-charge
+predominant component
+preferred Conditions
+preferred Heterostructure
+primary colorsand
+printed circuit board
+printhead
+prior art compounds
+prior art semitransparent metallic cathodes
+prior art TOLEDs
+promote
+purified
+purposes
+quenching
+quinolinyl
+radiationless
+radiationless energy transfer
+radicals
+Ralkyl
+rayonnement
+rear surface
+reflective material
+relating
+relaxation process
+reliable high-resolution full color flat panel displays
+repeated
+response time
+robust
+roller
+rubber
+salts
+same time interval
+saturated red emission
+schematic cross sectional view
+sealed glass package
+second control signal
+second electroluminescence-producing heterostructures
+second light emitting
+second light-emitting
+semiconductive organic
+semiconductive organic layer
+separate electron transport
+simplify
+single heterostructure
+sized
+soit
+solutions
+solvant
+speeds
+spraying
+stabilized
+stabilizing
+stacked organic light emitting device comprising first
+stacked organic light emitting devices SOLEDs
+stacks
+static electricity
+status
+stripes
+substrate surface
+successive
+super
+supply voltage
+switch unit
+switching unit
+tantalum oxide
+technologies
+thienyl
+third sub-pixels
+titanium nitride
+touch panel
+TPP-doped devices
+transition metals
+trap
+trench
+triarylamine derivatized phenoxide
+tricyclic
+triple
+tuning
+turned-ON
+two arenes
+undesirable
+unsaturated linkage
+Vorrichtungen
+wasted
+waveform
+wetting
+white color
+wide band gap semiconductor
+wireless
+workstation
+Ymetal
+zinc sulfide
+abilities
+acetylacetonate
+active layers
+actuation
+adjacent pixels
+affixed
+alkoxyl
+aluminum oxynitride
+ambient environment
+ambipolar
+angeordnet
+anode layer
+another set
+apertures
+appliqu¨¦
+argon
+article
+assistance
+atomic number
+au-dessus
+bei
+benzofuran
+benzoyl
+benzyl
+blurring
+boundaries
+broken
+calculate
+calculation
+car navigation system
+carbon black
+center portion
+certain embodiments
+cesium fluoride
+charge transport layers
+chromatography
+claimed)
+color reproducibility
+common voltage
+conduct
+consistent
+constant current
+convenience
+coplanar
+corrects
+covalently
+critical
+cross-linking
+crosslinking
+cure
+current flows
+dass
+data driving unit
+deren
+desired color
+different materials
+dimer
+dip
+directing
+dispersing
+display module
+double-sided
+drawings
+drive transistors
+driving element
+efficacy
+elasticity
+electrical properties
+electrode/hole
+electroluminescent display
+electron-transporting layer
+electronic appliance
+electronic components
+emitting material
+enthalten
+entry
+etching process
+excellent brightness
+excellent durability
+excimer
+exciton blocking
+exit
+expected
+external air
+failures
+fibers
+field emission display device
+filtered
+first current
+first light-emitting
+first semiconductor
+flickering
+folded
+forces
+freedom
+full color
+furyl
+fused rings
+gate driver
+general preparation
+graphic
+graphical
+green light emitting
+groupes
+Gruppe
+hand
+handling
+haut
+hexaazatriphenylene
+high-density
+host materials
+human
+hydrophilic
+illuminate
+improving image quality
+incorporate
+indicative
+influenced
+inkjet printing
+inlet
+instrument
+integrated circuit
+intense
+interaction
+interconnected
+intrusion
+inventive device
+inventive method
+inverse
+irradiates
+kann
+kitchen appliances
+laser induced thermal imaging
+latter electrode
+least one thin film transistor
+lichtemittierenden
+lighting devices
+limits
+liquid crystal display device
+long life
+low-index
+matched
+melting point
+mesh
+method comprising
+mobile screens
+modify
+mold
+multi-color
+nanostructures
+narrow band
+non-linear
+OLED display apparatus
+OLED drive current
+opened
+orange
+organic EL display
+organic films
+organic laser diodes
+organic light emitting diode OLED devices
+organic material layers
+organic photovoltaic device
+organic polymer
+organic transistor
+orientation
+oxidizing
+oxinoid
+packages
+pad electrode
+pad portion
+pad unit
+panel assembly
+partial cross-sectional view
+PEN
+penetrated
+permettre
+photographic
+polar
+polarized
+polycrystalline silicon layer
+polyesters
+potentials
+power lines
+power source line
+power sources
+powers
+printing process
+processus
+prolonging
+quinoxaline
+radiated
+rapid response speed
+real
+recessed
+recesses
+regular
+regulating
+remain
+repairing
+replacing
+repr¨¦sent¨¦
+residue
+residues
+respective one
+retaining
+saves
+schematic circuit diagram
+second layer
+second semiconductor
+secures
+semi-transmissive
+seuil
+share
+sheet resistance
+shown
+side walls
+signaux
+silicate
+sites
+slit sheet
+slot
+solder
+solved
+substrate member
+suited
+symmetry
+talk
+taper angle
+therethrough
+thermal conductivity
+thiazole
+third switch
+throughput
+uppermost
+washing
+white balance
+word processor
+xylene
+yttrium oxide
+acceptor substrate
+accumulated
+accumulation
+acetic
+activating
+active matrix type
+additional layers
+adhere
+affect
+aldehyde
+amines
+analogs
+analyzing
+andthe
+another surface
+applied voltage
+appliquer
+approach
+atomes
+benzothiazole
+biased
+biasing
+blue sub-pixel
+blur
+books
+boost
+broadband
+carbazolylphenyl
+cavities
+cellulose
+celui-ci
+centred
+chlorobenzene
+circuit representation
+class
+clear image
+color temperature
+colours
+combined emission
+compensator
+consumes
+contact area
+contaminants
+contiennent
+contribute
+convenient
+converters
+correspondence
+cost effective manner
+crosses
+crystallize
+current passing
+cyano group
+data drivers
+dead space
+deep
+degrading
+depicting
+deposition efficiency
+desdites
+desdits
+detectors
+deviations
+dianionic
+dianionic ligand
+dibenzoselenophene
+different layers
+diffused
+diffuser
+discussed
+disk
+display data
+display portion
+displaya
+dissolving
+donating
+donor element
+drain currents
+driving signal
+durable
+economical
+EL device
+electrochemical stability
+electrode layer
+electromagnetic radiation
+emission area
+encapsulates
+end portion
+enlarged cross-sectional view
+environments
+erfindungsgem??en
+examples
+exchange
+exciton blocking layer
+external power source
+extra
+fait
+fashion
+first light emitting
+first opening
+first passivation
+flat panel display FPD
+flexible substrates
+floating
+formula VII
+fraction
+fuse
+gate-source
+glass material
+glass package
+global
+glycol
+grating
+gray level
+group(s)
+halogen atom
+helps
+high image quality
+high reproducibility
+high temperature
+hole blocking layer
+hole injection layer HIL
+indicates
+indication
+indium-tin oxide
+inhibit
+inject
+inspecting
+interconnections
+intermediate connector
+international
+ionic
+ionization potential
+junction
+laser induced thermal imaging method
+laser-induced
+layer comprising
+Layer ETL
+layer HTL
+layered structure
+least one side
+leave
+lenses
+light emitting display device
+light emitting pixels
+light-emitting efficiency
+lighting apparatus
+limitations
+load resistance
+load resistance value
+low driving voltages
+low turn-on voltage
+low-level
+magnesium-silver
+major
+manufacturing organic light-emitting display apparatus
+measurements
+medicine
+melt
+mesure
+metal oxides
+metal-containing
+monochrome
+monovalent
+moyens
+negative electrode
+nematic
+network
+non-emission region
+non-light-emitting
+non-polymeric
+notebook personal computer
+office lighting
+OLED panels
+one direction
+ont
+operable
+optiques
+organic EL element OLED
+organic functional
+organic LED panel
+organic light-emitting device comprising
+organic phototransistors
+organic photovoltaic cells
+organic photovoltaic devices
+outlet
+output line
+pad region
+partitioned
+photosensitive material
+pigments
+pitch
+pixel circuit unit
+pixel current
+polyether sulfone
+polyethylene terephthalate PET
+polyimide resin
+polyimides
+portable computer
+powering
+precursors
+predetermined pattern
+prepare
+principal
+process time
+produces emission
+produit
+programmable
+propagation
+propylene
+pyrazole
+pyrene
+raised
+reach
+reaches
+receptor
+recevoir
+recognized
+reduced cost
+reducing cost
+reference voltages
+reflective electrodes
+releasing
+removably
+replacement
+resins
+retardation
+rotation
+safety
+scattered
+sectional drawing
+select signal
+selenium
+semi-conducteur
+semiconductor layers
+servant
+short circuits
+side surface
+slits
+socket
+spreading
+styryl compound
+sulfonic acid
+switching transistors
+synchronized
+television monitor
+thin-film transistors
+third pixel
+tolerance
+torr
+tridentate ligand
+typical
+undesired
+unit pixels
+upper side
+watch
+white light emission
+wie
+accumulating
+acrylic acid
+acting
+active element
+active matrix organic light emitting diode
+additional process
+affinity
+agents
+alimentation
+alkyl group
+alkyle
+aluminum-doped
+anddisplay
+andmanufacturing
+angular
+another capacitor
+another portion
+anti-reflective
+aryl groups
+arylamine compound
+ashing
+assembling
+atmospheric pressure
+atome
+auch
+banks
+belonging
+benzothiophene
+bicyclic
+bits
+blue light-emitting compound
+blue light-emitting layer
+bottom surfaces
+Bragg
+breakdown
+bridging
+brightness uniformity
+bubbles
+built
+bulbs
+butyl
+calibration
+capacitor storage
+car audio equipment
+carbon atom
+centers
+chlorine
+chromophore
+colloid-forming
+color characteristics
+color gamut
+color image
+comparator
+compare
+concentrations
+conformal
+control voltage
+cover plate
+cycles
+damages
+de plus
+deposition mask
+designing
+deteriorating
+device performance
+dialkylamino
+diese
+different colours
+diffractive
+diphenyl
+diphenylamine
+direction parallel
+display characteristics
+door
+drawn
+driving power
+driving voltage line
+dropping
+duty ratio
+elastic
+electric potential
+electro-optic
+electro-optical apparatus
+electroactive
+electron transport layers
+electron-withdrawing
+electronic books
+emissive materials
+empilement
+engaged
+entier
+epoxy-based
+ethanol
+experience
+external force
+extract
+facing electrode
+fields
+filling material
+flat-panel display
+flexible display
+food
+formulas
+fourth transistors
+front side
+full color display
+gallium nitride
+gaming
+gray scale
+green pixel
+green sub-pixel
+high contrast ratio
+high reliability
+high speed
+hole-transporting layer
+homopolymer
+illuminates
+image signals
+impedance
+improved aperture ratio
+improving efficiency
+indium-zinc-oxide
+induce
+informational
+inhibited
+ink-jet
+inorganic layers
+input data
+instructions
+integrity
+interconnect
+interfaces
+internet
+invention compositions
+irradiate
+island
+ketopyrrole
+large area wall screens
+large-size
+layer thickness
+least one organic layer
+least one organic light emitting diode
+leur utilisation dans des dispositifs ¨¦lectroniques
+lichtemittierende
+light emission period
+light emitter
+light emitting diode LED
+light emitting materials
+light emitting units
+light transmission
+light-emissive
+light-emitting unit
+lighting panel
+look-up
+lors
+low level
+low-cost
+luminance uniformity
+luminescent material
+magnet
+making electrical contact
+management
+manufacturing organic LED display
+manufacturing organic light emitting display apparatus
+mass scale
+metal electrode
+metal film
+metal layers
+metal nitride
+methanol
+microcavity structure
+microcrystalline
+minute
+misalignment
+mobile terminal
+mobile visual display units
+mobiles
+model
+modulus
+moisture absorbent
+mole
+monitoring
+motif
+n-butyl
+nano
+nanotubes
+nitrate
+non-adjacent
+non-aromatic ring
+non-planar
+nor
+nouveau
+number average molecular weight
+observe
+observer
+occupies
+OLED materials
+one region
+opaque material
+optical device
+optimizes
+organic devices
+organic EL element
+organic field-effect transistors
+organic layer(s)
+organic light-emitting diode OLED display device
+organic light-emitting pixels
+organic light-emitting unit
+organic semiconductor material
+organic substituent
+organic thin film transistors OTFTs
+organizer
+oxy
+panel display
+partition wall
+passive matrix OLED
+peripheral portion
+phenol
+photoconductive
+photolithographic
+photonic
+pin
+pixel definition
+pixel shrinkage
+pixel-defining layer
+places
+polyethersulfone
+polymeric material
+polymethyl methacrylate
+pores
+positive electrode
+precharge
+predefined
+prism
+probability
+protrude
+puissance
+pulse width
+raw
+recorder
+red sub-pixel
+reduced number
+reflective surface
+reflectors
+refresh
+regioregular polythiophene
+regulated
+reinforcement
+relaxed
+restoring
+reverse bias
+rotating
+same substrate
+scanned
+scheme
+scribing
+sealing unit
+second current
+second data
+second passivation
+seconds
+security
+sensing unit
+serial
+shielded
+short response time
+silicon nitride SiNx
+single color
+soft
+sound reproduction device
+source-drain
+special
+specifying
+spin casting
+spray coating
+station
+stationary visual display units
+stepped
+stereoscopic
+stopped
+strips
+sublimation temperature
+supplier
+supplies current
+Suzuki
+switch transistor
+switching circuit
+tablet computer
+telecommunications devices
+temps
+tensile
+term
+tested
+thermosetting
+tin oxide SnO
+titania
+top-emitter
+total thickness
+transferable
+transparent anode
+transparent cathode
+transparent film
+transparent organic light emitting display device
+transported
+trapped
+trapping
+trois
+ultra
+ultra-thin
+umfasst
+underlying layers
+undoped
+valeur
+valve
+vias
+voltage signal
+weak
+whole surface
+withdrawing
+absolute value
+absorber
+accepting
+accomplished
+acetyl
+acetylene
+acidic
+activate
+active matrix display
+active matrix organic light emitting diode AMOLED display
+active matrix organic light-emitting display device
+active matrix type OLED display
+actual
+additive
+ADVANTAGEThe OLED
+afficheur
+aluminum-doped zinc oxide
+amido
+amino groups
+amplitude
+analog driving
+andan organic iridium complex
+anduse
+aniline
+anisotropic
+annulated
+another side
+another terminal
+antireflection
+area illumination lamp
+aromatic tertiary amine
+aromatique
+articles
+aryl-substituted
+assigned
+attained
+attractive
+audio set
+automotive dome lights
+auxiliary electrodes
+auxiliary wiring
+balayage
+ball
+barrier films
+base film
+basse
+benzo-fused
+benzoyl pyrrole compound
+blend
+bleu
+blue light emitting electroluminescent organic material
+blue pixel
+blue sub-pixels
+blue-green
+boiling point
+bond(s)
+bonne
+bottom electrodes
+bright ambient light conditions
+burn-in
+bypass
+calculators
+capacitor region
+capture
+captured
+car audio
+carbazole derivative
+carbon atoms
+carbon-carbon
+carbonyloxy
+carboxylate
+cathode layers
+cathode material
+cathode side
+chains
+chalcogenide
+character
+charge-generating
+chelate
+chromium oxide
+chromophores
+chrysene
+chuck
+collected
+column direction
+common power line
+compensation period
+complexed
+complicated
+composition exhibits enhanced color properties
+comprising aqueous dispersions
+computer displays
+concentrated
+concerns
+condensation
+conducts
+conjugation
+connection wiring line
+constant brightness
+constant luminance
+control line driver
+cooled
+coordinating
+crystals
+current value
+cyclcoaliphatic
+cycloheteroalkyl
+dark spot
+data voltages
+deliver
+delivered
+demultiplexers
+dense
+densities
+deposition apparatus
+deposition source nozzle unit
+description
+destructive
+destructive interference
+dianhydride
+dielectric layer
+diffuse
+digital camera display
+digital data
+dip coating
+directs
+discontinuous
+display brightness
+display elements
+distyrylbenzene
+divide
+divides
+drains
+drift
+driving current flowing
+driving currents
+easy manner
+electrical power
+electroactive host material
+electroluminescence comprising
+electroluminescent materials
+electroluminescent(EL)
+electronic display
+electronic notebook
+electronic paper
+electrophosphorescent composition
+electrostatic discharge
+elle
+emission control driver
+emission layer EML
+emission-type
+emitting red
+encapsulant
+encloses
+energized
+entire sealing film
+exceeding
+excellent stability
+excellente
+exposed area
+exposed surface
+external impurities
+fabrication cost
+fabriquer
+fault
+feed
+field effect transistor
+figures
+fins
+first drain electrode
+first edge
+first film
+first gate
+first hole
+first insulation
+first sealant
+first switching element
+first switching transistor
+first transparent conductive
+fluctuations
+fluoranthene compound
+fluoranthene nucleus
+front surface
+front view
+full-color display
+games
+gate dielectric
+glass plate
+glass transition temperature Tg
+goggle-type
+good film strength
+good film-forming abilities
+good temperature resistance
+green pixels
+grey
+ground voltage
+grace
+hafnium oxide
+halides
+haloalkyl
+handle
+heights
+hetero alkyl
+high glass transition temperatures
+high resistance
+high yield
+higher deposition rate
+holder
+hole mobility
+hole-injection enhancement layer
+horizontal lines
+hour
+hydrocarbons
+hydrogen atom
+hydroxide
+image display unit
+impacts
+implementation
+implements
+important
+improved image quality
+improved luminous efficiency
+improved method comprising
+improved overall efficiency
+improved reliability
+inclination
+indexes
+indium gallium oxide IGO
+indium-tin oxide ITO anode
+indoor
+inert gas
+information boards
+inf¨¦rieur
+initialization period
+initialized
+inorganique
+inputs
+inputting
+installation
+integrated circuits
+inventive OLED
+inverting
+iodide
+irradiation source
+ketopyrrole ligand
+laser light
+lead oxide PbO
+least one cyclometallated ligand
+least one electroactive host material
+least one inventive light-emitting
+least one ketopyrrole ligand
+least one material
+least one N
+least one organic iridium complex comprising
+life-time
+light emitting control line
+light emitting control signal
+light incident
+light output efficiencies
+light sensor
+light transmittance
+light-scattering layer
+light-to-heat conversion layer
+light-transmitting
+lighter
+links
+Liq
+liquid composition
+liquid crystal displays LCDs
+lithium quinolate
+lithography
+locating
+logical
+long life span
+long time
+low deposition rate
+low power
+machines
+main body
+manufacturing organic LED device
+Materialien
+mentioned
+microlens
+micrometer
+minimal
+minimising
+miroir
+Mmetal
+mobilities
+monocyclic
+multicolored
+music
+needs
+nickel oxide
+nitrogen atoms
+octaethylporphine
+Ohmic
+oligomeric
+opposite sides
+optical devices
+optical efficiency
+optical system
+optoelectronic electronic devices
+organic EL display apparatus
+organic emission unit
+organic field effect transistors
+organic integrated circuits
+organic iridium complex
+organic light emission
+organic light emitting diode displays
+organic light emitting display OLED apparatus
+organic light-emitting devices OLEDs
+organic light-emitting diode comprising
+organic light-emitting diode display
+organic light-emitting diodes OLED
+organic semiconductors
+organischen Leuchtdioden
+organometallic compound
+osmium complexes
+outer edge
+outermost
+output signals
+outward
+owing
+p-doped
+partiellement
+parylene
+passivation film
+pattering
+peak emission wavelength
+penetrates
+permeability
+phenylpyridine
+phosphite
+phosphorescent complex
+phosphorescent device
+phosphorescent emitters
+phosphorescent organometallic complexes
+photoactive
+photon
+photovoltaic cells
+pillar
+pixelated
+plage
+plasma display
+plasma display device
+plasmon
+polyacryl
+polyamides
+polyurethane
+poor
+portable devices
+portable display device
+power source lines
+power supply lines
+practical
+praseodymium
+preferred Methods
+presentation
+pressed
+primary colours
+projection lens
+providing electrical power
+quinacridone
+radiating
+react
+reaction mixture
+recognition
+recording medium
+red light-emitting
+reference power source
+registers
+reinforced
+removable
+repair
+repaired
+returns
+ribs
+rough
+row direction
+row electrode
+same layer
+satisfy
+saturation wavelength
+schematic perspective view
+screen billboard
+second buffer
+second gate
+second layers
+second source
+second spectrum
+second surface opposite
+second surfaces
+second thin film transistor
+second voltage source
+seen
+self-emitting
+semi-conducteurs
+separate light source
+several layers
+sheets
+shift register
+side wall
+silicon nitride layer
+simplification
+sintered
+skeleton
+small area
+small thickness
+solvants
+solvent cast films properties
+source voltage
+spectre
+spherical
+stabilization
+stabilize
+stadium screens
+stated
+stationary screens
+strain
+substituant
+substituent(s)
+sufficient thickness
+suivantes
+taking
+television TV
+tensions
+theatre screen
+thermal damage
+thiadiazole
+thiazolyl
+thin film field effect transistors
+third pixels
+third transistors
+third voltage
+threshold voltage variation
+tin Sn
+top electrodes
+total reflection
+touching
+tout
+transducer
+transformation
+transition metal complex
+transparent layer
+transports
+triazines
+two sides
+umfassend
+Universal
+upper electrodes
+users
+utiles
+utilise
+UV light
+valves
+vaporized
+vicinity
+viewing angle characteristics
+vinylene)
+Volts
+watches
+were
+widening
+zinc selenide
+abnormal
+absorption spectrum
+active matrix organic LED display
+active matrix organic light emitting diode display
+active matrix organic light emitting display
+active matrix organic light emitting display device
+acyclic
+adjustable
+advertising panels
+aesthetic
+affichages
+aforementioned
+aircraft
+alicyclic ring
+alkoxylamino
+aluminum zinc oxide AZO
+AMOLED panel
+amorphous silicon layer
+angeordnete
+anti-glare
+appear
+architectures
+aromatic groups
+aromatic hydrocarbon
+arylsulfonyl
+aufweist
+augmente
+average wavelength
+aza-dibenzofuran
+aza-dibenzothiophene
+background
+baked
+bank pattern
+barrier layers
+bathocuproine
+Bauelement
+behavior
+beneficial
+benzene ring
+benzimidazole
+biosensor
+biphenylene
+bis
+blank
+blends
+blue light emitting
+boosting
+bord
+bords
+bottom emission type organic light-emitting display device
+bottom portion
+broad range
+bromo
+brought
+capacitance wiring line
+capacitorDMData
+carbazole compound
+carbene ligand
+carbene ligands
+carbon nanotubes
+carbone
+cases
+catalysts
+cathode electrodes
+celsius
+channel regions
+chelated
+chemical vapor deposition
+closest
+closing
+column electrode
+completion
+composite material
+computer display
+conductive oxide
+conjugated polymers
+connection portion
+constructive
+contents
+contiguous
+continue
+control end
+controlling amount
+controlling current
+con?ue
+corners
+corresponding pixels
+coupler
+coverage
+creates
+cross-linked
+current-driven
+cyclometallated platinum
+cylinder
+dabei
+data driver supplies data signals
+degrade
+depicts
+deposition rate
+designs
+device elements
+diamond-like
+diarylamino
+different pixels
+different refractive indices
+diffraction
+directement
+disabled
+disconnected
+dispensing
+display image
+display surface
+dissipates
+dissipating
+distinct bidentate ligands
+distribute
+downstream
+drivera
+driving apparatus
+driving OLED display
+driving organic light emitting display device
+ease
+efficacement
+effort
+electric charge
+electrical conductivity
+electroconductive
+electrode material
+electroluminescent compound
+electrolyte
+electron-accepting
+Elektrode
+element substrate
+emission period
+emission time
+emitter layer comprising organometallic complexes
+emitting efficiency
+emitting region
+emitting white light
+enclose
+energy transfer
+entertainment
+environmental elements
+equivalent circuit diagram
+etchant
+exceed
+exceeds
+excellent contrast
+exciting
+exits
+expanding
+extent
+external diffuser
+externe
+facilely
+far
+fast response time
+film(s)
+first active
+first data
+first glass plate
+first hole transport
+first organic light emitting device
+first organic light emitting diode
+first pixel region
+first polymer
+first semiconductor layer
+first source
+first substrate plate
+first voltage source
+flexographic
+floor
+fluorenes
+fluorescent molecules
+fluorine-containing
+focal
+focusing
+formant
+formulation
+fourth electrode
+frame memory
+fused aromatic ring
+gate insulator
+gate-source voltage
+genannten
+goggle-type display
+goggles-type
+gradient
+graphene
+growing
+guided
+guiding
+handheld
+heats
+heteroaryl groups
+heteroatom(s)
+heterocycle
+heterocycloalkenyl
+hexadentate
+high aperture ratio
+high external quantum efficiency
+high solubility
+high thermal
+high-speed
+high-temperature
+higher brightness
+higher luminance
+highest occupied molecular orbital HOMO
+hole injection material
+household
+hydrazine
+hydrazone
+hysteresis
+illuminated signs
+image display device
+image reproduction apparatus
+imide
+improved electroluminescent efficiency
+improving quality
+impurity ions
+incandescent bulbs
+inclusion
+inclusive
+indicate
+indicated
+indium-tin-oxide ITO
+industry
+inhibiting
+initial voltage
+ink-jet printing
+insulators
+integrates
+interfacial
+intersects
+irregular
+isopropyl
+joint
+large-scale
+laser beams
+last
+layer pattern
+least first
+least one compound
+least one dopant
+least one emissive
+least one heteroatom
+least one light emitting
+light emission region
+light emitting control lines
+light emitting part
+light emitting period
+lighting options
+lit
+localized
+longitudinal direction
+lost
+low work function
+lower part
+luminescentes
+magnesium fluoride
+main component
+mais
+manufactures
+manufacturing OLED device
+matrices
+maximizing
+mechanical reliability
+membrane
+metal center
+microscope
+modulator
+moment
+monitored
+motifs
+multi
+multilayer structure
+mura
+n-doped
+nanoparticle
+nanowires
+naphthacene
+neighboring pixels
+neodymium Nd
+new compounds
+non-emission state
+non-luminescent
+non-transmissive
+objects
+obtenir
+OLED light source
+olefin
+opening portion
+operating method
+operation speed
+optical characteristics
+optical path
+optical path length
+optimum
+organic component
+organic compound layer
+organic field effect transistor
+organic host material
+organic light emitting diode array
+organic light emitting diode display panel
+organic light emitting diode LED
+organic light emitting diodes OLED displays
+organic light-emitting display OLED
+organic lithium compound
+organic photodetector
+organic phototransistor
+ortwo
+outcoupling
+outer portion
+outgas
+outgassing
+overcoat layer
+overcome
+overlay
+oxidation state
+oxynitrides
+ozone
+p-channel
+parties
+partitions
+pentadentate
+perceived
+personal portable devices
+phenanthryl
+phenoxy
+phenyl group
+phosphorescent organometallic compound
+phosphorus pentoxide
+pictures
+plaque
+platinum octaethylporphine PtOEP
+PLED device
+poly-silicon
+polydimethylsiloxane
+polymeric sulfonic acid
+polyolefin
+polytetrafluoroethylene
+polyvinylcarbazole
+porphyrinic
+portable electronic apparatus
+portable information terminals
+possess
+power supplies
+predetermined thickness
+predetermined value
+predetermined voltage
+preferred embodiment
+preferred Parameters
+pressurized
+previous approaches
+previous scan line
+print-head
+procedures
+processing time
+prolongs
+proposed
+protection film
+protruded
+radiative
+readable
+reagent
+reality
+realization
+realizes
+red light-emitting component
+red pixel
+reduced drive voltage
+reduced weight
+reducing number
+reductions
+reference current
+released
+render
+repeating unit
+repr¨¦sent¨¦s
+resetting
+resonance effect
+rouge
+run
+same color
+same level
+scattering light
+scatters
+schematic side view
+sealing element
+second conductive layers
+second drain electrode
+second edge
+second film
+second hole transport
+second organic layers
+second pixel region
+second polymer
+second portions
+second sealant
+second transparent conductive
+see
+segmented
+selector
+semiconductor devices
+separator
+side sectional view
+sidewalls
+signal delay
+signal voltage
+silicon oxides
+silicon-based
+simple device structure
+sinking
+sintered frit
+situated
+sixth transistor
+soient
+Solarzellen
+solubilizing
+source terminals
+spaced-apart
+stand
+stated order
+stilbene
+stockage
+stop
+storage capacitance
+sub pixels
+sub-pixel region
+subframes
+Substrats
+subtracting
+sunlight
+supplying current
+supplying power
+switchable
+switching device
+symmetrical
+synthetic options
+tandis
+telluride
+temperature rise
+TeO
+terphenyl
+there-between
+thin profile
+thio
+through-hole
+tiles
+top-emitting OLED
+tous
+toutes
+trait
+transformed
+transistor region
+transmettre
+transmissivity
+transparent cover
+transparent glass substrate
+triaryl
+triazoles
+triflate
+trifluoride
+trou
+two capacitors
+two pixels
+two terminals
+two thin film transistors
+ultra-slim
+urethane acrylate
+utiliser
+utilis¨¦es
+vacuum state
+varnish
+vibration
+voltage levels
+voltage value
+water-soluble
+waveguiding
+weight ratio
+wells
+windows
+wiring lines
+withstand
+wound
+zirconium dioxide
+Zirconium Zr
+abrasion
+acac
+accommodating
+active matrix organic electroluminescence display device
+active matrix organic LED
+active matrix organic light emitting display AMOLED
+active matrix substrate
+actuated
+acute
+acylamino
+acyloxy
+additional mask
+additive mixing
+adheres
+adjacent layers
+adjacentes
+advance
+advantageous
+afficheurs
+Ag alloy
+aggregate
+airtight
+align
+alkali metal compound
+alkaline-earth
+alkanoyl
+alkoxyalkyl
+alkyleneoxy
+alkylsulfinyl
+alkylsulfonyl
+alkylthioalkyl
+alors
+alter
+aluminium
+aluminum-neodymium alloy
+ambipolar host compound
+amine group
+analyzed
+anhydride
+anode side
+another node
+anthryl
+antimony trioxide
+apparent
+appropri¨¦s
+arsenate
+arsenic
+artifacts
+arylsulfinyl
+asymmetric
+attenuation
+aufweisen
+aussi
+backfill
+balancing
+barium fluoride
+barrier film
+barrier rib
+barriers
+beads
+become
+benzo-fused thiophene
+bi-dentate
+bidentate ligands
+bipolar
+bleue
+blocage
+blocker
+blocking material
+blue colors
+blue light-emitting component
+bodies
+borane
+borate glass
+borne
+bottom substrate
+bridges
+buffer member
+cadmium sulfide
+capacitor Cst
+capacitor electrode
+capacitor upper electrode
+capteurs
+capturing
+caract¨¦ris¨¦e
+carbenes
+carbides
+carboxyl group
+cards
+cas
+cellule
+cerium oxide
+chalcogenide glass
+channel area
+charge transport material
+chips
+chloro
+cleaned
+closed loop
+coater
+coil
+collection
+collectors
+color display device
+color filter elements
+color rendering index
+colorant
+coloring
+colors results
+column electrodes
+common node
+common power supply line
+compact light weight printhead
+compatibility
+compensation voltage
+computer-readable
+conductance
+conductive lines
+conductivities
+consideration
+consumer device
+contact region
+contaminated
+continues
+control circuits
+control electrodes
+controlling brightness
+convertisseur
+copper phthalocyanine CuPc
+corps
+corresponding pixel
+cost reduction
+costly
+counterion
+covalent bond(s)
+cross-sectional diagram
+cross-sectional views
+crossed
+crystallinity
+current consumption
+current-voltage
+curtains
+cyclohexane
+cyclotenes
+D/A converter
+dadurch
+dashboard
+deformed
+delivers
+deposition source nozzles
+desirably
+desired curvature
+desired pixel sharpness
+desktop computer
+destination displays
+detached
+detrimental
+develop
+development
+device lifetime
+device structure
+dielectric material
+different levels
+different wavelengths
+difficult
+digital data signal
+digital/analog
+diimide
+dimming
+diode-connected
+Dioden
+diphenylaminophenyl
+dipole
+direct quasi-contact printing
+dispersant
+dissipate
+dissolve
+distyrylamine
+divers
+doit
+domaine
+drive element
+drive TFT
+driver IC
+driver transistor
+driving pixels
+driving voltages
+droplet
+drug
+duty cycle
+efficient organic light emitting devices OLEDs
+ejecting
+EL elements
+electric connection
+electrical signal
+electroluminescence elements
+electroluminescent EL device
+electroluminescent layer
+electroluminescent units
+electron transfer
+electron transport capabilities
+electron-donating
+electron-transport mobility
+emissive dopants
+emitting blue light
+enclosure
+ensuite
+enters
+entire area
+equation
+essential
+established
+esters
+estimated
+etching mask
+every pixel
+excellent electrical characteristics
+excellent solubility
+exemplary embodiments
+exist
+exists
+exposed portions
+expressed
+expression
+external environment
+external oxygen
+external source
+fabric
+facilitated
+falling
+fast response speed
+fifth transistors
+fine metal mask
+first buffer
+first compound
+first group
+first inorganic film
+first layer
+first organic emission
+first reference voltage
+first signal line
+first source electrode
+first thickness
+fixes
+fixtures
+flatness
+flexible display device
+fluctuation
+fluorinated polymers
+focus
+focused
+fois
+form part
+formats
+formulated
+formulations
+formules
+fragment
+fragments
+fuel
+functional block diagram
+functional layer
+fused aromatic rings
+fused ring system
+gamma voltages
+gel permeation chromatography
+geometric
+good operational stability
+good processability
+good solubility
+grams
+green light-emitting component
+hardness
+heat treatment
+heteroaromatic group
+hexadentate ligand
+high charge carrier mobilities
+high color purity
+high color rendering index
+high current density
+high temperature stability
+high transmittance
+high-quality image
+higher efficiency
+higher power efficiency
+hoardings
+hole-transporting material
+hollow
+hybridized
+hygroscopic
+identify
+identifying
+illuminating device
+imino
+improved display quality
+improved luminance
+improved power efficiency
+improved properties
+improving luminous efficiency
+inches
+incoming
+indirect
+indium-zinc
+influences
+inherent
+initialization power source
+initiator
+inorganic barrier layers
+inorganic sealing material
+inserting
+insoluble
+inspected
+insulation film
+interposing
+IR detector
+iridium complexes
+iridium coordination compound
+isolante
+isoxazole
+kind
+kinds
+kit
+laid
+lap-top computers
+large amount
+large substrate
+largeur
+laser induced thermal imaging LITI method
+laser printer
+latch
+later
+LCD displays
+least one electrode
+least one OLED
+least one second polymer
+least two layers
+LED display
+lesquelles
+Lewis
+lid
+ligand L
+ligand(s)
+Liganden
+light beams
+light coupling efficiency
+light emission control lines
+light emission control signal
+light emission layer
+light emitting panel
+light extraction film
+light passing
+light transmissive
+light-blocking
+light-emitting layer LEL
+light-emitting layer(s)
+light-emitting materials
+light-emitting units
+lighted
+limitation
+line resistance
+lineoptional
+liquid crystal
+liquid medium
+loads
+long term stability
+long-term
+low temperature
+low work function metal
+lowest unoccupied molecular orbital LUMO
+luminances
+luminescence efficiency
+luminescents
+lumineuses
+luminous element
+LUMO energy level
+lying
+m-MTDATA
+magnetic force
+main chain
+majority
+mark
+masked
+maximal
+maximizes
+maximum value
+melted
+memory device
+mesurer
+meta
+metal carbides
+metal M
+metal nitrides
+meter
+meth
+methane
+methylene
+micro-display
+micron
+mirrors
+mittels
+mobile device
+mobile telephones
+mobilen
+mobilit¨¦
+modulators
+molding
+molybdenum trioxide
+monodentate ligand
+monolayer
+motion imaging device
+movable relative
+multi-layer structure
+multiplying
+natural number
+neutral charge
+nitrogen gas
+nitrous
+non-light emitting region
+non-metallic
+non-pixel area
+non-pixel regions
+non-polymeric material
+notebook computers
+nylon
+objective
+occupy
+oeuvre
+OLED drive voltage
+OLED layers
+OLED stack
+OLED unit
+oligomers
+omitted
+on-state
+one substrate
+one transistor
+operation voltage
+operational amplifier
+operative
+operator
+opposite electrodes
+oppos¨¦e
+orbitals
+organic compounds
+organic EL
+organic EL device
+organic EL elements
+organic electroluminescence display apparatus
+organic electroluminescence elements
+organic electroluminescent EL display device
+organic emitting layer
+organic LED comprising
+organic LED device comprising cathode
+organic LED devices
+organic LED element
+organic light emission layer
+organic light emitting diode OLED display panel
+organic light emitting displays
+organic light-emitting diode display device
+organic light-emitting diode luminaire
+organic light-emitting display panel
+organic light-emitting layers
+organic OLED
+organic optoelectronic devices
+organic TFT
+organic-inorganic
+organometallic material
+original shape
+out-gassing
+outer circumference
+output terminals
+overall emission
+overall thickness
+overcoming
+overlaid
+oxadiazoles
+oxidative
+oxide semiconductor layer
+oxygen-containing
+oxygen-sensitive
+p-type dopant
+packing
+paper-thin light sources
+par exemple
+parylenes
+passive matrix OLED display
+patterned first electrode
+peeled
+peeled layer
+penta
+permeating
+permettent
+personal computer PC
+personal computers
+persulfate
+perylenyl
+phases
+phenyl rings
+phosphate glass
+phosphide
+phosphorescent devices
+phosphorescent emissive material
+photovoltaics
+pile
+pillars
+pixel definition layer
+pixel structures
+planarity
+plastic film
+plastics
+plug
+plural organic electroluminescence elements
+polycarbonate PC
+polymer compound
+polymer film
+polyolefins
+polysiloxane
+polysulfone
+portable system screens
+pre-charging
+predetermined period
+predicted
+preferred Condition
+preferred Dimension
+preferred Diode
+preferred Polymer
+printed circuit board PCB
+printhead design
+prior art
+process efficiency
+processor control code
+produite
+profiles
+progressive
+propyl
+protective cover
+public
+pulse width modulation
+pump
+pyridazine
+pyridine compound
+pyrimidyl
+qualities
+quantum dots
+quasi-contact
+quinone
+radio-frequency
+reaching
+real-time
+rear side
+recorded
+reduced driving voltage
+reducing manufacturing costs
+reference power supply
+reference voltage source
+reflected light
+regard
+relaxing
+reli¨¦e
+repeat unit
+replace
+reproduced
+reset voltage
+resistances
+rest
+resultant
+retains
+reverse bias voltage
+reversibly
+root
+rounded
+samarium Sm
+sampled
+scalable
+scan driving circuit
+scandium
+scattering particles
+schematic drawing
+Schichten
+sealing structure
+second capacitors
+second compound
+second conductors
+second glass plate
+second inorganic film
+second insulation
+second metal layer
+second organic emission
+second passivation layer
+second semiconductor layers
+second signal line
+second solvent
+second thickness
+second transparent electrode
+semitransparent reflector
+sensing signal
+sharing
+shell
+short-circuit
+shorted
+signage
+simultan¨¦ment
+single pixel
+sinks
+sintering
+slope
+small molecule
+small number
+solving
+souple
+spans
+specifications
+spectrums
+spin coating method
+sputtered
+stabilizes
+stacked electroluminescent layers
+station?ren
+stirring
+stripping
+structuring
+sub pixel
+sub-deposition
+subframe
+sublayer
+subsidiary
+substrate side
+sulfonamide
+sulfonic acid group
+support returns
+supporter
+surface treatment
+suspended
+switch TFT
+synchronous
+synthesis
+synthesizing
+tantalum nitride
+technetium
+telecommunication devices
+television screens
+tert-butyl
+testing method
+tetracarboxylic
+theater screen
+thermal stress
+thermoelectric
+thickness direction
+thickness uniformity
+third color
+third region
+tile
+titanium alloy
+titanium nitride TiN
+top-emitting OLED device
+transfer object
+transmitted image
+transmitted light
+transparentes
+transverse
+trouve
+turn-off
+two adjacent substituents
+two sub-pixels
+two surfaces
+two-dimensional array
+ultrasonic
+undercut
+valeurs
+vanadium pentoxide
+variable power supply
+vertical direction
+video data
+video display
+viewable
+viewfinder
+visible photons
+vision
+void
+voids
+water vapor transmission rate
+wavelength range
+web
+white light-emitting component
+white OLED
+white pixel
+white-light
+wide viewing angles
+writing period
+xanthene
+y-coordinate
+yellow light
+ytterbium Yb
+absorbing light
+acceptable
+acceptor groups
+acetone
+acoustic
+acryl-based resin
+acrylates
+actif
+active device
+active matrix OLED AMOLED display
+active matrix organic LED AMOLED display
+active matrix organic light emitting device
+active matrix organic light emitting diode AMOLED
+active matrix organic light-emitting diode
+activity
+add
+adhesive force
+adhesive material
+adhesive strength
+adjacente
+affects
+afficher
+agencement
+algorithm
+alkali metals
+alkaline earth metals
+alkaline metal
+alkene
+alkyl groups
+alkyl substituent
+allyl
+alternating series
+aluminum trioxide
+ammonium persulfate
+analog-to-digital
+anda device
+anda process
+andlight
+andmanufacture
+anhydrous
+anisotropic conductive film
+annealing process
+another scan signal
+another switch
+anti-reflection coatings
+anti-reflection layer
+antimony Sb
+antistatic film
+appropri¨¦e
+aqueous solution
+area illumination
+arm
+aromatic ring system
+arri¨¨re
+arsenide
+arylkyl
+assuring
+atom(s)
+atoms necessary
+attract
+audit
+automated
+automobiles
+avant
+avoir
+azacarbazole
+azadibenzofuran
+backside
+band gap
+bandwidth
+barrier film(s)
+basic components
+bath
+Bauelementen
+benzannulated
+benzannulated analogs
+benzazole
+benzoate
+Bereich
+bi-dentate ligand
+bias voltage
+bilayer
+Bildschirmen
+binary
+bioassays
+bis-cyclometallated
+bis-cyclometallated complex
+blade
+blended
+blockers
+blocking light
+blue dopant
+blue light emitting material
+blue OLEDs
+Boptionally
+border
+bottom emission
+bottom emission type organic light emitting display device
+bottom gate structure
+bottom-emitting OLED device
+bracket
+branched alkyl
+break
+brightness controller
+bulb
+bumps
+bus line
+bus lines
+buttons
+capacitor lower electrode
+capteur
+carbon nanotube
+cation transducer
+cell phone display
+cellular telephones
+certain luminance
+cesium Cs
+chandelier
+channel length
+charge generation
+check
+chemical stability
+chemicals
+chimiques
+choisis
+chromatic
+chromaticity coordinates
+circuit configuration
+circuit printing operation
+co-acid
+co-dispersing
+coated substrate
+coating method
+collecting
+color mixing
+color OLED display
+color saturation
+color-conversion
+column lines
+complex circuitry
+comprendre
+compressive
+compris
+computer screen
+computer-readable medium
+concept
+conducting material
+conducting polymer
+conductive adhesive
+conductive film
+conductive organic polymer
+conductive patterns
+conductive portion
+conform
+conforms
+conjunction
+considered
+consommation
+constant voltage
+constructing
+continued
+contre
+control gate
+controller coordinates transportation
+conveying
+cooperate
+copiers
+coronene
+correction signal
+courants
+creation
+cross-sectional schematic view
+crude
+crystalline silicon
+current level
+current signal
+current supply
+curved surface
+cyan
+cyclic alkyl
+cyclic ether
+cyclic group
+cyclohexanone
+data line Data
+degeneration
+delamination
+dendritic
+denotes
+deposition substrate
+depuis
+describes
+design configuration
+detailed description
+device characteristics
+diagnostic
+diagrammatic
+diamond
+differ
+different shapes
+different types
+differing
+diff¨¦rence
+diff¨¦rente
+digital-to-analog converter
+diimine
+dimethyl sulfoxide
+diode laser
+dioxythiophene
+diphenylamino
+disconnection
+display array
+distributes
+distributing
+dopant materials
+dopes
+drain contact hole
+drain current Id
+drive signal
+driving pixel circuit
+driving thin film transistors
+driving time
+dropped
+dry etching
+eine Licht-emittierende Schicht
+elastomer
+electric signal
+electrical characteristic
+electrical property
+electrical resistance
+electrical shorts
+electrode modifier
+electrode structure
+electrode(s)
+electroluminescent element
+electroluminescent layers
+electroluminescent metal complexes
+electron affinity
+electron-transporting material
+electrophotographic
+electrostatic chuck
+elektrischen
+element(s)
+elimination
+emission regions
+emission times
+emission unit
+emissive surface
+emitting area
+emitting device
+emitting different colors
+emitting diode
+emitting layer comprising
+empty
+en particulier
+encapsulation member
+end portions
+enfin
+enhanced color properties
+entire display
+entire region
+entra?ner
+erroneous
+escape
+estimating
+ethers
+europium
+evanescent
+evaporation process
+excellent film-forming properties
+executed
+exposer
+external image
+external light reflection
+extraction efficiency
+extracts
+eyes
+facteur
+factors
+fall
+FeCl
+ferric sulfate
+film formation
+film transistors
+filtration
+first adhesive
+first dielectric
+first electron
+first emission
+first light emitting layer
+first light emitting unit
+first luminance control unit
+first metal layer
+first organic light emitting
+first pattern
+first pixels
+first refractive index
+first regions
+first spectrum
+fix
+flat panel display apparatus
+flex
+flip-flop
+flip-flops
+fluidic
+fluidic curtains
+fluorenyl group
+fluorescent dye
+fluorescent emitters
+fluorescent material
+follows
+food container
+forward direction
+fournissant
+fourth TFT
+frequencies
+frequency conversion
+Fresnel
+functional group
+fused heteroaromatic ring system
+gallium phosphide
+game machines
+getter material
+goggles
+goggles-type display
+good stability
+graphics
+gray-scale
+great
+greater efficiency
+grid electrode
+gris
+hand-held
+hardware
+head mounted display
+heat generation
+heat treatment process
+heater
+heavy hydrogen atoms
+help
+hermeticity
+Het
+heterocyclic rings
+heterocyclic systems
+heterocyclyl
+hexafluoroacetylacetonate
+high conductivity
+high efficiencies
+high luminance efficiency
+high quality characteristics
+high quality image
+high voltage level
+high-definition
+hole injection efficiency
+hole transport properties
+hole transportation
+horizontal direction
+horizontal period
+housed
+hundreds
+hydroxyl group
+Idata
+illumination source
+imposed
+improved electrical characteristics
+improved life span
+improved lifespan
+improvements
+improving uniformity
+improving yield
+in-situ
+incorporates
+increases aperture ratio
+indenoperylene
+indole
+inductive
+inflow
+information displays
+ingress
+initial luminance
+initialize
+inorganic barrier
+inorganic films
+input end
+input image
+installing
+insufficient
+insulates
+inter-layer
+interact
+intercal¨¦e
+intermolecular
+internal reflection
+interne
+introduction
+invented
+iodine
+ion impurities
+iron Fe
+isoelectronic
+isolate
+isometric
+isopropanol
+isothiazole
+items
+keep
+keeping constant
+laminate structure
+lanthanum La
+large-sized display devices
+laser ablation
+laser dyes
+laser generator
+latter set
+lattice
+layer thicknesses
+leakage currents
+least one capacitor
+least one embodiment
+least three
+lengthwise
+Licht-emittierenden
+lifespans
+ligands L
+light absorbing material
+light beam
+light emission periods
+light emitting composition
+light emitting diode OLED
+light emitting regions
+light scattering layer
+light valves
+light-emitting diode display
+light-emitting dopant
+light-emitting electrochemical cells
+light-shielding
+likelihood
+lineELVDD
+lineOLEDOrganic
+linesELVDD
+liquid crystal material
+liquid-crystal
+LITI method
+load-locked
+load-locked printer housing
+lock
+long lifespans
+long period
+longitudinal axis
+look-up table
+low electric power
+low energy
+low manufacturing cost
+low molecular weight compound
+low voltage level
+low-temperature
+lower capacitor electrode
+lower drive voltage
+lower operating voltage
+lower refractive index
+lower region
+lowest triplet
+lowest triplet excited state
+luminaires
+luminescent efficiency
+luminescent polymer
+magnets
+making desired color display
+manufacturing organic LED
+manufacturing organic LED display device
+markers
+masque
+masse
+match
+matches
+material chosen
+Matrixmaterial
+mechanisms
+meets
+metal chosen
+metal electrodes
+metal nanowires
+metal particles
+metal pattern
+metal substrate
+metal thin film
+metal-insulator-metal
+metal-oxide
+metallic layer
+metallic material
+methoxy
+microcavities
+microelectronic
+migration
+moisture-sensitive
+mol¨¦culaire
+moving image
+multi-layered structure
+multi-line
+multiplexer
+N-Propyl
+nanostructured
+navigation systems
+navigator
+necessity
+neighboring pixel
+neue
+non-emitting region
+non-radioactive
+non-radioactive metals
+non-transparent
+normal operation
+normalized
+notch
+nouvelles
+nscan
+objet
+octahedral
+OLED assembly
+OLED brightness
+OLED driving current
+OLED layer
+OLED module
+OLED modules
+OLED-type printing
+on-current
+one set
+one terminal
+opposed electrode
+opposes
+optic
+optical cavity
+optical sensor signal
+opto¨¦lectronique
+orany
+organic electroluminescence display panel
+organic electroluminescence EL device
+organic electroluminescent EL display
+organic electroluminescent material
+organic functional layer
+organic LED OLED panel
+organic light emitting diode OLED elements
+organic light emitting diode structure
+organic light emitting diode ¡°OLED¡± display
+organic light emitting display devices
+organic light emitting structure
+organic light-emitting diode OLED display apparatus
+organic photovoltaic cell
+organic semiconductor layer
+organic thin film layer
+organischer
+organo
+oscillator
+overhang
+overlapping area
+overlays
+overlies
+oxidant
+oxide-based
+oxygen plasma
+oxygen sensitive indicators
+oxygen transmission rate
+packaged
+para
+passive matrix display
+passive matrix displays
+past
+patient
+per se
+perfluoroethylene
+performances
+periflanthene
+permeable
+pertaining
+perylene tetracarboxylic diimide
+phenanthrenyl
+phenazine
+phenothiazine
+phenoxazine
+phenyl groups
+phenyl pyridine
+phosphorescent host
+phosphorescent indicators
+phosphorescent materials
+phosphorescents
+photo diode
+photo-resist
+photoacryl
+photoconductors
+photolithography process
+photoresist layer
+photoresistor
+photoswitch
+phototube
+phthalocyanines
+physical gates
+pick-up
+piece
+pieces
+piloter
+pins
+pipe
+pixel arrangement
+pixel power source
+pixel size
+planar surface
+planarization film
+platinum complex
+polarisation
+polarizers
+police
+poly(styrenesulfonic
+polygonal
+polymer layer
+polymer layers
+polymer light emitting diode
+polymer light emitting diodes PLEDs
+polymeric materials
+polymerizable compound(s)
+polysilicon layer
+polythiophenes
+portant
+porteurs
+post-treatment
+potassium persulfate
+power controller
+power source voltage
+predetermined current
+predetermined number
+predetermined portion
+predetermined wavelength
+preferred Apparatus
+preferred Features
+preferred Structure
+present teachings
+pressure-sensitive
+printable
+printing operation
+probe
+produce light
+produits
+promotes
+proportional values
+providing current
+puis
+purges
+purification
+pyridine)iridium
+quasi-contact printing
+ramp
+rare-earth
+reactions
+reception
+rechargeable
+recognize
+recouvrant
+rectification
+rectifier
+red pixels
+red-green-blue
+redox
+reduced dead space
+reduced manufacturing cost
+reducing defects
+reducing thickness
+reference current value
+reference voltage Vref
+reflecting electrode
+reflection electrode
+reflections
+reflective film
+reflective metal
+regulates
+relying
+rendition
+reset period
+responding
+responsible
+restrict
+retrait
+reused
+reveal
+rim
+rotated
+roughened
+route
+row electrodes
+Rsubstituent
+rubrene compound
+sacrificial
+same voltage
+samples
+satisfactory
+satisfying
+scan pulse
+second aspect
+second carrier
+second chamber
+second direction perpendicular
+second group
+second LED
+second luminance control unit
+second nodes
+second opening
+second organic light emitting
+second organic light emitting diode
+second pattern
+second power sources
+second reference voltage
+second refractive index
+second signal lines
+second source electrode
+second switching element
+second switching transistor
+second voltages
+sein
+self-emission display device
+semiconducting polymer
+semiconductor active
+seule
+shields
+short period
+shortest
+shutter
+signal line drive circuit
+silicon nitride film
+silicon nitrides
+silsesquioxane
+simple fabrication process
+simple method
+single layer
+SiON
+skin
+smaller stress
+sodium chloride
+sodium persulfate
+solid state
+solution processing
+sprayed
+spread
+spring
+sputter
+stabilizer
+staggered
+stannous
+Stille
+stocker
+storage device
+stream
+strengths
+stress relaxing film
+string
+stripe-shaped
+striped
+strontium oxide
+sub-deposition spaces
+sub-pixel regions
+sublayers
+substituants
+suite
+sulfonated polythiophene
+supercapacitor
+supplies data signals
+support substrate
+surgical
+susceptible
+suspension
+switch element
+switch module
+synthesize
+t-butyl
+tab
+tailored
+tantalum Ta
+target pixel
+teachings
+teleconferencing
+temporal
+tens
+theatre screens
+thermal contact
+thermal evaporation
+thermal properties
+thermoplastic
+thin film transistor array
+thin film transistor region
+thin film transistor TFT substrate
+thioether
+third material
+third nodes
+third pixel electrode
+third pixel region
+third spectrum
+third switches
+third switching element
+third TFT
+three colors
+three primary colors
+three transistors
+timely
+timely opening appropriate gates
+tone
+tool
+top emission type organic light emitting display device
+top substrate
+top-emission type organic light-emitting display apparatus
+total internal reflection
+touch screen display
+trace
+traffic
+trans
+transfert
+transition metal atom
+transmission region
+transparent conductive film
+transparent conductor
+transparent display
+transparent organic light-emitting display device
+traveling
+trichloride
+triphenyl
+triplet state
+tris-cyclometallated
+tris-cyclometallated complex
+tubes
+tubular
+tungsten trioxide
+TV screens
+TV sets
+ultraviolet light
+uncharged
+une diode ¨¦lectroluminescente organique OLED
+unfused
+uniform distribution
+uns
+upper gate electrode
+utile
+vacuum chamber
+vacuum thermal evaporation VTE
+vapor-deposited
+vaporization
+vide
+video cameras
+VIN
+volatile
+voltage controller
+voltage output
+weist
+wheel
+white-emitting
+wide screen
+wider viewing angle

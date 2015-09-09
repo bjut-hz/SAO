@@ -215,14 +215,17 @@ class SAOSystem(object):
                 srl_result = sao_parser.SRLAnnotation( sentence )
                 paser_tree = sao_parser.getParserTree( sentence )
                 for item in srl_result:
-                    if self.__isVerb( paser_tree, item['V'] ):
-                        element = SAOData()
-                        element.index = sentences[0]
-                        element.subject = self.findSubject( paser_tree, item['V'] )
-                        for key in item.keys():
-                            element.datas[key] = item[key]
+                    try:
+                        if self.__isVerb( paser_tree, item['V'] ):
+                            element = SAOData()
+                            element.index = sentences[0]
+                            element.subject = self.findSubject( paser_tree, item['V'] )
+                            for key in item.keys():
+                                element.datas[key] = item[key]
 
-                        output_datas.append( element )
+                            output_datas.append( element )
+                    except Exception, e:
+                        print(u"出现一条SAO异常记录，已删除！")
         self.excel_writer( output_datas )
         print(u"-----任务完成啦T_T-----")
 
@@ -278,4 +281,4 @@ class SAOSystem(object):
 if __name__ == '__main__':
     sao_system = SAOSystem('sublist.txt')
     print(u'开始处理，请稍后...')
-    sao_system.run('data.xls')
+    sao_system.run('testdata.xls')

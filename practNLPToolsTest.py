@@ -16,7 +16,7 @@ text = "I saw a dog chasing a cat."
 
 text = 'Resulting ZTDs can be characterized by mean standard deviations of 6-10 mm, but still ' \
        'remaining large biases up to 20 mm due to missing precise models in the software.'
-
+text = 'An electronic device may include a display having an array of organic light-emitting diode display pixels that produce light that forms an image.'
 # semantic role labelling
 annotator = Annotator()
 result = annotator.getAnnotations( text )["srl"]
