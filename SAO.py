@@ -107,7 +107,8 @@ class SAOParserCore():
 class SAOSystem(object):
     thesaurus = frozenset()
     def __init__(self, sublist_file_name = r'sublist.txt' ):
-        self.__class__.thesaurus = frozenset( self.init_sublist( sublist_file_name) )
+        self.__class__.thesaurus = frozenset( self.initSublist( sublist_file_name) )
+        self.cur_dir = os.getcwd()
 
     # def __index( self, alist, element ):
     #     """
@@ -212,7 +213,12 @@ class SAOSystem(object):
         for index, sentences in enumerate( sentences_process ):
             print(u"共有%d条数据，正在处理第%d条数据，已完成%.2f%%" %( num_rows - 1, index + 1, float(index)/(num_rows-1) * 100 ) )
             for sentence in sentences[1:]:
-                srl_result = sao_parser.SRLAnnotation( sentence )
+                try:
+                    srl_result = sao_parser.SRLAnnotation( sentence )
+                except Exception, e:
+                    print(u"！！编码错误。第%d条摘要,编号为：[%s], 内容为：%s" %( index+1, sentences[0], sentence ));
+                    os.chdir( self.cur_dir )
+                    continue
                 paser_tree = sao_parser.getParserTree( sentence )
                 for item in srl_result:
                     try:
@@ -225,11 +231,11 @@ class SAOSystem(object):
 
                             output_datas.append( element )
                     except Exception, e:
-                        print(u"出现一条SAO异常记录，已删除！")
-        self.excel_writer( output_datas )
+                        print(u"！！SAO记录异常。第%d条摘要，编号为：[%s], 内容为:%s" %( index+1, sentences[0], sentence ))
+        self.excelWriter( output_datas )
         print(u"-----任务完成啦T_T-----")
 
-    def init_sublist( self, file_name = r'sublist.txt'):
+    def initSublist( self, file_name = r'sublist.txt'):
         thesaurus = set()
         f = open( file_name, 'r' )
         while True:
@@ -241,8 +247,26 @@ class SAOSystem(object):
                 break
         return thesaurus
 
+    def elemenExcelWriter( self, row_num, data, file_name = "result.xls", path = ".\\" ):
+        """
+        save one element to xls file.
+        :param index:
+        :param data:
+        :param file_name:
+        :param path:
+        :return:
+        """
+        pass
 
-    def excel_writer( self, datas, file_name = "result.xls", path = '.\\' ):
+
+    def excelWriter( self, datas, file_name = "result.xls", path = '.\\' ):
+        """
+        save the datas in xls file one time .
+        :param datas: list type
+        :param file_name:
+        :param path:
+        :return:
+        """
         font = xlwt.Font()
         font.colour_index = 2
         font.bold= True
@@ -281,4 +305,4 @@ class SAOSystem(object):
 if __name__ == '__main__':
     sao_system = SAOSystem('sublist.txt')
     print(u'开始处理，请稍后...')
-    sao_system.run('testdata.xls')
+    sao_system.run('testdata1.xls')
