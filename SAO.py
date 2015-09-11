@@ -7,6 +7,7 @@ import time
 import nltk
 from nltk.parse import stanford
 from practnlptools.tools import Annotator
+import datetime
 
 class ExcelReader():
     "an excel file with only one sheet by default"
@@ -216,10 +217,18 @@ class SAOSystem(object):
                 try:
                     srl_result = sao_parser.SRLAnnotation( sentence )
                 except Exception, e:
-                    print(u"！！编码错误。第%d条摘要,编号为：[%s], 内容为：%s" %( index+1, sentences[0], sentence ));
+                    try:
+                        print(u"！！编码错误。第%d条摘要,编号为：[%s], 内容为：%s" %( index+1, sentences[0], sentence ))
+                    except Exception, e:
+                        pass
                     os.chdir( self.cur_dir )
                     continue
-                paser_tree = sao_parser.getParserTree( sentence )
+                # the exception may be: OSError
+                try:
+                    paser_tree = sao_parser.getParserTree( sentence )
+                except Exception, e:
+                    continue
+
                 for item in srl_result:
                     try:
                         if self.__isVerb( paser_tree, item['V'] ):
@@ -231,9 +240,11 @@ class SAOSystem(object):
 
                             output_datas.append( element )
                     except Exception, e:
-                        print(u"！！SAO记录异常。第%d条摘要，编号为：[%s], 内容为:%s" %( index+1, sentences[0], sentence ))
+                        try:
+                            print(u"！！SAO记录异常。第%d条摘要，编号为：[%s], 内容为:%s" %( index+1, sentences[0], sentence ))
+                        except Exception, e:
+                            pass
         self.excelWriter( output_datas )
-        print(u"-----任务完成啦T_T-----")
 
     def initSublist( self, file_name = r'sublist.txt'):
         thesaurus = set()
@@ -303,6 +314,12 @@ class SAOSystem(object):
 
 
 if __name__ == '__main__':
-    sao_system = SAOSystem('sublist.txt')
     print(u'开始处理，请稍后...')
+    t1 = datetime.datetime.now()
+
+    sao_system = SAOSystem('sublist.txt')
     sao_system.run('testdata1.xls')
+
+    t2 = datetime.datetime.now()
+    print(u"-----任务完成啦T_T-----")
+    print (u"共耗时：%s分钟" %((t2-t1).seconds / 60) )
