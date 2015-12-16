@@ -318,7 +318,7 @@ if __name__ == '__main__':
     t1 = datetime.datetime.now()
 
     sao_system = SAOSystem('sublist.txt')
-    sao_system.run('testdata1.xls')
+    sao_system.run('googlesearch.xlsx')
 
     t2 = datetime.datetime.now()
     print(u"-----任务完成啦T_T-----")

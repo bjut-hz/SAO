@@ -28,7 +28,7 @@ parser = stanford.StanfordParser( model_path="englishPCFG.ser.gz" )
 # print( type( ss ) )
 # print( ss )
 
-sentences = parser.raw_parse_sents( nltk.sent_tokenize( text ) )
+sentences = parser.raw_parse_sents( nltk.sent_tokenize( text ), verbose=True )
 print( type( sentences ) )
 
 for line in sentences:
